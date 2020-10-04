@@ -1,0 +1,23 @@
+{% extends '_default/page.html.twig' %}
+
+{% block head %}
+{{ parent() }}
+    <!-- Netlify Identity -->
+    <script src="https://identity.netlify.com/{{ site.netlify.identity.version|default('v1') }}/netlify-identity-widget.js"></script>
+    {% apply minify_js %}<script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', user => {
+          if (!user) {
+            window.netlifyIdentity.on('login', () => {
+              document.location.href = "/{{ site.netlify.cms.path|default('admin') }}/";
+            });
+          }
+        });
+      }
+    </script>{% endapply %}
+
+{% if page.forestry_instant_preview_id is defined %}
+    <!-- Forestry.io Instant Preview -->
+    <meta property="forestry:preview:id" content="{{ page.forestry_instant_preview_id }}">
+{% endif %}
+{% endblock head %}
