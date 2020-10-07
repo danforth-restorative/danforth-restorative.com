@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2020-07-22</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,6 +21,12 @@
   <url>
     <loc>/blog/nonviolent-communication/</loc>
     <lastmod>2020-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/blog/introduction/</loc>
+    <lastmod>2020-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
