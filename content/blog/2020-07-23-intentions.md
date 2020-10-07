@@ -18,4 +18,3 @@ I tried to get away, but had no conception of what I was running from, or even w
 
 I can't go back and change the past. What I can do, with the time I have left, is try and make it easier for others to avoid some of the pitfalls I've encountered. Maybe there's still an opportunity for me to leave the earth better than I found it.
 
-<script data-goatcounter="https://restorative.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

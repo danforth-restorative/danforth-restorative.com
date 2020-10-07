@@ -159,5 +159,3 @@ Here are some links where you can find more information in Articles, Books, Vide
 * [Connecting Across Differences](https://workcollaboratively.com/podcast/) - a podcast by Dian Killian, Ph.D. of Work Collaboratively about having greater empathy for yourself and others, and how to hear others more deeply and make sure that you’ve been heard. 
 * [The Art of NVC](https://www.artofnvc.com/podcast-1) - Podcast dedicated to sharing, learning, and discovering the fundamentals of Nonviolent Communication based on what I have learned from Marshall Rosenberg's classic book "Nonviolent Communication" and many of his videos.
 
-
-<script data-goatcounter="https://restorative.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

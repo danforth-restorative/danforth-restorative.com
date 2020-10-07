@@ -45,5 +45,3 @@ Lately, I've been delving deeply into the mechanics behind addiction, Cognitive 
 
 I'm not able to devote all of my time to these pursuits, but my energy has been shifting in that direction, since around the new year. I have been saving up a lot of bookmarks, so I'd like to begin sharing regularly on *all of the above* and see where that goes.
 
-
-<script data-goatcounter="https://restorative.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
