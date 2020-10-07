@@ -4,7 +4,9 @@ date: 2020-10-07
 menu: main
 ---
 
-The **Danforth Restorative Blog** is a place for me to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
+## Danforth Restorative the Blog
+
+This blog is a place for me to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
 
 It's important for me to not only restore my own wellbeing, but to share of how I'm learning to do so, and work to improve the lives of others.
 
@@ -18,9 +20,11 @@ Once the initial drive to repentance is sparked, and an open acknowledgement of 
 
 I've had to use that pain as a powerful incentive to learn, work hard and do the multitude of things that gradually, little by little, would restore vibrancy to life, by restructuring my thoughts, habits, and hobbies.
 
+## Danforth Restorative the Organization
+
 ![](/images/Danforth-Restorative.png)
 
-## Danforth Restorative is a Not for Profit Educational Organization
+This blog is also a place to get beyond my personal struggle, and get practical, with information and other resources for becoming the person I want to become, and raise up in the rallying cry around issues I've stayed willfully ignorant about for too long.
 
 I've spent my years in recovery immersed in the challenge, also, of acquiring marketable digital skills. 
 
