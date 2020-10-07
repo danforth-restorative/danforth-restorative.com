@@ -18,6 +18,8 @@ Once the initial drive to repentance is sparked, and an open acknowledgement of 
 
 I've had to use that pain as a powerful incentive to learn, work hard and do the multitude of things that gradually, little by little, would restore vibrancy to life, by restructuring my thoughts, habits, and hobbies.
 
+![](/images/Danforth-Restorative.png)
+
 ## Danforth Restorative is a Not for Profit Educational Organization
 
 I've spent my years in recovery immersed in the challenge, also, of acquiring marketable digital skills. 
