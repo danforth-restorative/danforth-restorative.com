@@ -1,8 +1,10 @@
 ---
-title: Sharing on Personal Development and Social Change
+title: About
 date: 2020-10-07
 menu: main
 ---
+
+**_Sharing on Personal Development and Social Change_**
 
 ## Danforth Restorative the Blog
 
