@@ -1,0 +1,22 @@
+{
+  "name": "cecil/theme-garth",
+  "type": "cecil-theme",
+  "description": "Cecil Garth theme",
+  "keywords": [
+    "Cecil",
+    "theme",
+    "Garth"
+  ],
+  "license": "MIT",
+  "require": {
+    "cecil/theme-installer": "^1.3"
+  },
+  "extra": {
+    "name": "garth",
+    "branch-alias": {
+      "dev-master": "1.x-dev"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

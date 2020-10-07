@@ -1,0 +1,141 @@
+[
+    {
+        "name": "cecil/theme-garth",
+        "version": "1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Cecilapp/theme-garth.git",
+            "reference": "9bba8ce9d8dbf5823217042127345e34c212a02b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Cecilapp/theme-garth/zipball/9bba8ce9d8dbf5823217042127345e34c212a02b",
+            "reference": "9bba8ce9d8dbf5823217042127345e34c212a02b",
+            "shasum": ""
+        },
+        "require": {
+            "cecil/theme-installer": "^1.3"
+        },
+        "time": "2020-05-19T18:49:02+00:00",
+        "type": "cecil-theme",
+        "extra": {
+            "name": "garth",
+            "branch-alias": {
+                "dev-master": "1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Cecil Garth theme",
+        "keywords": [
+            "Garth",
+            "cecil",
+            "theme"
+        ],
+        "funding": [
+            {
+                "url": "https://www.paypal.me/narno",
+                "type": "custom"
+            }
+        ]
+    },
+    {
+        "name": "cecil/theme-hyde",
+        "version": "1.16.0",
+        "version_normalized": "1.16.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Cecilapp/theme-hyde.git",
+            "reference": "3297cfb3ae222886ab99d95307d50286820a5424"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Cecilapp/theme-hyde/zipball/3297cfb3ae222886ab99d95307d50286820a5424",
+            "reference": "3297cfb3ae222886ab99d95307d50286820a5424",
+            "shasum": ""
+        },
+        "require": {
+            "cecil/theme-installer": "^1.3"
+        },
+        "time": "2020-05-19T17:36:25+00:00",
+        "type": "cecil-theme",
+        "extra": {
+            "name": "hyde",
+            "branch-alias": {
+                "dev-master": "1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Cecil Hyde theme",
+        "keywords": [
+            "Hyde",
+            "cecil",
+            "theme"
+        ],
+        "funding": [
+            {
+                "url": "https://www.paypal.me/narno",
+                "type": "custom"
+            }
+        ]
+    },
+    {
+        "name": "cecil/theme-installer",
+        "version": "1.3.1",
+        "version_normalized": "1.3.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Cecilapp/theme-installer.git",
+            "reference": "53f9557922f30cba89a91fcab18700394eb52de3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Cecilapp/theme-installer/zipball/53f9557922f30cba89a91fcab18700394eb52de3",
+            "reference": "53f9557922f30cba89a91fcab18700394eb52de3",
+            "shasum": ""
+        },
+        "require": {
+            "composer-plugin-api": "^1.0"
+        },
+        "time": "2018-11-21T14:35:40+00:00",
+        "type": "composer-plugin",
+        "extra": {
+            "class": "Cecil\\Installer\\Composer\\CecilPlugin",
+            "branch-alias": {
+                "dev-master": "1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Cecil\\Installer\\Composer": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Arnaud Ligny",
+                "email": "arnaud@ligny.org",
+                "homepage": "https://arnaudligny.fr",
+                "role": "Developer"
+            }
+        ],
+        "description": "Installer for Cecil themes",
+        "keywords": [
+            "cecil",
+            "installer",
+            "themes"
+        ]
+    }
+]

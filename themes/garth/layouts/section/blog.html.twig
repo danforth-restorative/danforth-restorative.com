@@ -1,0 +1,18 @@
+{% extends '_default/list.html.twig' %}
+
+{% block content %}
+        <section>
+          <header class="typeset">
+            <h1>{{ page.title }}</h1>
+            {{- page.content ~}}
+          </header>
+          <ul class="list list--posts">
+{% for post in pages %}
+            <li class="item item--post">
+{% include 'partials/post-item.html.twig' with {'post': post} only %}
+            </li>
+{% endfor %}
+          </ul>
+{% include 'partials/pagination.html.twig' %}
+        </section>
+{% endblock content %}

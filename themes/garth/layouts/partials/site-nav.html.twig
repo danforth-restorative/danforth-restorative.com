@@ -1,0 +1,9 @@
+        <nav class="nav">
+          <ul class="list list--nav">
+{% for item in site.menus.main|sort_by_weight %}
+            <li class="item {{ item.weight }} item--nav{% if url(item.url) == url(page) %} item--current{% endif %}">
+              <a href="{{ url(item.url) }}">{{ item.name }}</a>
+            </li>
+{% endfor %}
+          </ul>
+        </nav>

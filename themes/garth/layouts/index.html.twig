@@ -1,0 +1,11 @@
+{% extends 'page.html.twig' %}
+
+{% block content %}
+<article class="page typeset">
+  {{ page.content }}
+</article>
+{% for post in site.pages|filter_by('section', 'blog')|sort_by_date|slice(0, 1) %}
+{% include 'partials/post-item.html.twig' with {'post': post} only %}
+{% endfor %}
+{% include 'partials/lastposts.html.twig' %}
+{% endblock content %}

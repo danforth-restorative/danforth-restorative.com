@@ -1,0 +1,5 @@
+              <article class="article article--post typeset">
+                <h2><a href="{{ url(post) }}">{{ post.title }}</a></h2>
+{% include 'partials/post-meta.html.twig' with {'post': post} only %}
+                {{ post.content|excerpt_html }}
+              </article>

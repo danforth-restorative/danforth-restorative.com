@@ -1,0 +1,14 @@
+{% if site.menus.footer is defined %}
+{% set menu %}{% apply spaceless %}
+{% for item in site.menus.footer|sort_by_weight %}
+&nbsp;·&nbsp;<a href="{{ url(item.url) }}">{{ item.name }}</a>
+{% endfor %}
+{% endapply %}{% endset %}
+{% endif %}
+    <footer class="footer">
+      <div class="container">
+        <div class="copyright typeset">
+          <small class="small">&copy; {{ site.title }} {{ site.time|date('Y') }}{% if menu is defined %}{{ menu }}{% endif %}</small>
+        </div>
+      </div>
+    </footer>

@@ -1,9 +1,1 @@
-vendor/
-_site/
-.cecil/
-.cache/
-themes/*
 .DS_Store
-cecil.phar
-composer.phar
-changeuser

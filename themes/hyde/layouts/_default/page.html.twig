@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+{% block head %}
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>{% block title %}{{ page.title }} &middot; {{ site.title }}{% endblock title %}</title>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ url('apple-touch-icon-144-precomposed.png') }}">
+    <link rel="shortcut icon" href="{{ url('favicon.ico') }}">
+{% block head_css %}
+    <link rel="stylesheet" href="{{ asset(['css/poole.css','css/syntax.css','css/hyde.css'])|minify|url }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+{% endblock head_css %}
+{% include 'partials/alternates.html.twig' %}
+    <link rel="stylesheet" href="{{ asset('css/monokai-sublime.css')|url }}">
+    <script src="{{ asset('js/highlight-9.13.1.min.js')|url }}"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+{% endblock head %}
+  </head>
+  <body>
+    <div class="sidebar">
+      <div class="container sidebar-sticky">
+{% block sidebar %}
+        <div class="sidebar-about">
+          <h1>
+            <a href="{{ url() }}">{{ site.title }}</a>
+          </h1>
+          <p class="lead">{{ site.description }}</p>
+        </div>
+        <nav class="sidebar-nav">
+{% if site.menus.main is defined %}
+{% for menu in site.menus.main|sort_by_weight %}
+          <a class="sidebar-nav-item{% if url(page) == url(menu.url) %} active{% endif %} item-weight-{{ menu.weight }}" href="{{ url(menu.url) }}">{{ menu.name }}</a>
+{% endfor %}
+{% endif %}
+        </nav>
+        <p>Powered by <a href="{{ cecil.url }}">Cecil</a> &amp; <a href="http://hyde.getpoole.com">Hyde</a>.</p>
+{% endblock sidebar %}
+      </div>
+    </div>
+    <div class="content container">
+{% block content %}
+      <h1 class="page-title">{{ page.title }}</h1>
+      {{ page.content }}
+{% endblock %}
+    </div>
+  </body>
+</html>
