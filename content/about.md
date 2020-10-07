@@ -1,12 +1,10 @@
 ---
-title: About
+title: Sharing on Personal Development and Social Change
 date: 2020-10-07
 menu: main
 ---
 
-# Sharing on Personal Development and Social Change
-
-Danforth Restorative is a place for me to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
+The **Danforth Restorative Blog** is a place for me to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
 
 It's important for me to not only restore my own wellbeing, but to share of how I'm learning to do so, and work to improve the lives of others.
 
@@ -18,7 +16,7 @@ While soulful introspection is invaluable, it's too easy to get lost in the pain
 
 Once the initial drive to repentance is sparked, and an open acknowledgement of ways my behavior has brought pain to the lives of others, overly dwelling in this type of sorrow and agony wasn't making me a better person. 
 
-I've had to use that pain as a powerful incentive to learn and do the multitude of things that gradually, little by little, would restore vibrancy to life, by restructuring my thoughts, habits, and hobbies.
+I've had to use that pain as a powerful incentive to learn, work hard and do the multitude of things that gradually, little by little, would restore vibrancy to life, by restructuring my thoughts, habits, and hobbies.
 
 ## Danforth Restorative is a Not for Profit Educational Organization
 
