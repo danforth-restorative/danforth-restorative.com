@@ -42,6 +42,6 @@ Becoming entirely absorbed with technical and other challenges of building a car
 
 I've also been deeply searching and keeping track of my findings on a number of topics that are essential for my own development and recovery, as well as the divided world we are struggling within.
 
-This space is my home for the intersection where digital skills, personal growth, social struggles, and transformative potential all come together.
+This space is for the intersection where digital skills, personal growth, social struggles, and transformative potential all come together.
 
 I do intend to create a 501c3, and would like for this to become an actual organization of people who are learning and working together around all of the above and the simple ways that digital tools can expand the reach and potency of our most important messages.
