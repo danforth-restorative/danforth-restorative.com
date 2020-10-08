@@ -10,7 +10,7 @@ draft: false
 
 ## Danforth Restorative the Blog
 
-This blog is a place for me to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
+On purpose of this blog is to provide a space to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
 
 It's important for me to not only restore my own wellbeing, but to share of how I'm learning to do so, and work to bring benefits to the lives of others.
 
