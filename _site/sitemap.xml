@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>/blog/the-organization-and-the-blog/</loc>
+    <lastmod>2020-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/blog/intentions/</loc>
     <lastmod>2020-07-22</lastmod>
     <changefreq>monthly</changefreq>
