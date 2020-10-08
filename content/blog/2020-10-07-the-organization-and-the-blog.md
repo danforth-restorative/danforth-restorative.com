@@ -12,7 +12,7 @@ draft: false
 
 This blog is a place for me to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
 
-It's important for me to not only restore my own wellbeing, but to share of how I'm learning to do so, and work to improve the lives of others.
+It's important for me to not only restore my own wellbeing, but to share of how I'm learning to do so, and work to bring benefits to the lives of others.
 
 I want to use this space to open up and be vulnerable about some of the challenges I've struggled with. 
 
@@ -28,7 +28,13 @@ I've had to use that pain as a powerful incentive to learn, work hard and do the
 
 ![](/images/Danforth-Restorative.png)
 
-This blog is also a place to get beyond my personal struggle, and get practical, with information and other resources for becoming the person I want to become, and raise up in the rallying cry around issues I've stayed willfully ignorant about for too long.
+This blog is also a place to get beyond my personal struggle, and raise up in the rallying cry around issues I've stayed willfully ignorant about for too long. 
+
+I want to acknowledge the systemic problems of sexism and racism, and work to make those topics more navigable for my own education and the greater good.
+
+It's important to be aware of our personal and societal problems, but also to get practical, with information and other resources for becoming the people we want to be, and the society we aim to nurture and develop.
+
+### Digital Skills are a Force Multiplier
 
 I've spent my years in recovery immersed in the challenge, also, of acquiring marketable digital skills. 
 
@@ -38,4 +44,4 @@ I've also been deeply searching and keeping track of my findings on a number of 
 
 This space is my home for the intersection where digital skills, personal growth, social struggles, and transformative potential all come together.
 
-I do intend to create a 501c3, and would like for this to become an actual organization of people who are learning together about all of the above and simple ways that digital tools can expand the reach and potency of our most important messages.
+I do intend to create a 501c3, and would like for this to become an actual organization of people who are learning and working together around all of the above and the simple ways that digital tools can expand the reach and potency of our most important messages.
