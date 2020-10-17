@@ -43,6 +43,7 @@ jobs:
         php cecil.phar build -v
         echo "### Cecil Action done"
     - name: Deploy Changes
+      run: sudo apt update && sudo apt install git
       run: |
         git remote add gh-token "https://github.com/danforth-restorative/website.git"
         git config user.name "github-actions[bot]"
