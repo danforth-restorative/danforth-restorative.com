@@ -59,6 +59,6 @@ jobs:
     - name: Deploy site to GitHub Pages
       uses: Cecilapp/GitHub-Pages-deploy@2.0.1
       env:
-        EMAIL: arnaud@ligny.org
+        EMAIL: david.danforth@protonmail.com
         GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BUILD_DIR: _site
