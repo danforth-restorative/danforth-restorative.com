@@ -42,23 +42,11 @@ jobs:
         echo "### Building Cecil static site"
         php cecil.phar build -v
         echo "### Cecil Action done"
-    - name: Upload site to Artifacts
-      uses: actions/upload-artifact@v1
-      with:
-        name: _site
-        path: _site
-  deploy:
-    name: Deploy
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-    - name: Download site from Artifacts
-      uses: actions/download-artifact@v1
-      with:
-        name: _site
-    - name: Deploy site to GitHub Pages
-      uses: Cecilapp/GitHub-Pages-deploy@2.0.1
-      env:
-        EMAIL: david.danforth@protonmail.com
-        GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BUILD_DIR: _site
+    - name: Deploy Changes
+      run: |
+        git remote add gh-token "https://github.com/danforth-restorative/website.git"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git pull
+        git commit -a -m "build site"
+        git push gh-token master
