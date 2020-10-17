@@ -17,7 +17,6 @@ jobs:
       run: |
         apk update
         apk add --no-cache gettext-dev icu-dev
-        apk add git
         docker-php-ext-install -j$(nproc) gettext
         docker-php-ext-install -j$(nproc) intl
     - name: Checkout source
