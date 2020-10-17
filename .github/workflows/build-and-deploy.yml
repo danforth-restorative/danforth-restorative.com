@@ -17,6 +17,7 @@ jobs:
       run: |
         apk update
         apk add --no-cache gettext-dev icu-dev
+        apk add git
         docker-php-ext-install -j$(nproc) gettext
         docker-php-ext-install -j$(nproc) intl
     - name: Checkout source
@@ -44,7 +45,6 @@ jobs:
         echo "### Cecil Action done"
     - name: Deploy Changes
       run: |
-        sudo apt update && sudo apt install git
         git remote add gh-token "https://github.com/danforth-restorative/website.git"
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
