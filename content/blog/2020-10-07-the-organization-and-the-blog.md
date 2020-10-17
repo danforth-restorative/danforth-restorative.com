@@ -4,7 +4,6 @@ date: 2020-10-07
 tags:
   - Danforth Restorative
 draft: false
-
 ---
 
 **_Sharing on Personal Development and Social Change_**
