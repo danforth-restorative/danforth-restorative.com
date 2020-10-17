@@ -4,6 +4,7 @@ date: 2020-10-07
 tags:
   - Danforth Restorative
 draft: false
+
 ---
 
 **_Sharing on Personal Development and Social Change_**
@@ -12,21 +13,19 @@ draft: false
 
 On purpose of this blog is to provide a space to reflect upon my addictions recovery, and share resources I've found most valuable for rebuilding my life. 
 
-It's important for me to not only restore my own wellbeing, but to share of how I'm learning to do so, and work to bring benefits to the lives of others.
+It's important for me to not only restore my own wellbeing, but to share the ways I'm learning to do that, and work to bring those benefits to the lives of others.
 
 I want to use this space to open up and be vulnerable about some of the challenges I've struggled with. 
 
 I know that my struggles do not exist in isolation, and I want to make this process transparent to any individuals or communities that I've impacted, paving a way forward for myself, and perhaps others, with the common human challenges that we face.
 
-While soulful introspection is invaluable, it's too easy to get lost in the pain of remembrance. 
+While soulful introspection is invaluable, it's too easy to get lost in self-judgement, and the pain of remembrance. 
 
-Once the initial drive to repentance is sparked, and an open acknowledgement of ways my behavior has brought pain to the lives of others, overly dwelling in this type of sorrow and agony wasn't making me a better person. 
+Once a drive to repentance was sparked, and an open acknowledgement of ways my behavior has brought pain to the lives of others, overly dwelling in this type of self-flagellation and agony wasn't making me a better person. 
 
-I've had to use that pain as a powerful incentive to learn, work hard and do the multitude of things that gradually, little by little, would restore vibrancy to life, by restructuring my thoughts, habits, and hobbies.
+I've used that pain as a powerful incentive to learn, work hard and in the multitude of things that gradually, little by little, would restore vibrancy to life, by restructuring my thoughts, habits, hobbies, and means of living.
 
-## Danforth Restorative the Organization
-
-![](/images/Danforth-Restorative.png)
+## Danforth Restorative 
 
 This blog is also a place to get beyond my personal struggle, and raise up in the rallying cry around issues I've stayed willfully ignorant about for too long. 
 
@@ -38,10 +37,10 @@ It's important to be aware of our personal and societal problems, but also to ge
 
 I've spent my years in recovery immersed in the challenge, also, of acquiring marketable digital skills. 
 
-Becoming entirely absorbed with technical and other challenges of building a career online from scratch, I was able to find some relief from the initial agony of sobriety and facing my internal processes loud and clear, after years of dulling my senses in drink and drug.
+Becoming entirely absorbed with a multitude of challenges, technical and otherwise, of building a career online from the ground up, I was able to find some relief from the initial agony of sobriety and facing my internal processes loud and clear, after years of dulling my senses in drink and drug.
 
 I've also been deeply searching and keeping track of my findings on a number of topics that are essential for my own development and recovery, as well as the divided world we are struggling within.
 
 #### An intersection where digital skills, personal growth, social struggles, and transformative potential come together.
 
-I do intend to create a 501c3, and would like for this to become an actual organization of people who are learning and working together around all of the above and the simple ways that digital tools can expand the reach and potency of our most important messages.
+In the digital age, we don't have to decide between following our hearts and earning an income. In honor of that fact, I'd like to create an 501c3 educational nonprofit organization, for people learning and working together to develop marketable digital skills, while learning ways that digital tools can expand the reach and potency of our most important messages.

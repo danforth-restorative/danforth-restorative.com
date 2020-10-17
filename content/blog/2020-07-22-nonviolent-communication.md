@@ -20,49 +20,45 @@ It's underlying philosophy provides clarity around how we think about our emotio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l7TONauJGfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-There's no way I can capture the full impact of his message in this post. If you're interested, check out that video, and at the end of this post I'll provide some more resources for further study.
+There's no way I can capture the full impact of his message in this post. If you're interested, check out that video, and at the end of this post I'll provide some more resources for further study. Beyond that, I expect this is a subject I'll continue to create content on in the future.
 
 ## Background
 
-[Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg) developed this system after having grown up experiencing both extreme violence and compassion under difficult conditions. He went on to study psychology with the intention to discover what conditions contribute to violence on the planet, and what helps us connect us with our compassionate nature. 
+[Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg) developed this system after having grown up experiencing, both, extreme violence and compassion under difficult conditions. He went on to study psychology with the intention to discover what conditions contribute to violence on the planet and what helps us connect us with our compassionate nature. 
 
-Earning a Ph.D. in clinical psychology from the University of Wisconsin–Madison, Dr. Rosenberg found that psychiatric diagnoses had [no scientific basis](https://www.sciencedaily.com/releases/2019/07/190708131152.htm), and that looking at violence as a mental illness ignored the societal structures that promote this behavior.
+Earning a Ph.D. in clinical psychology from the University of Wisconsin–Madison, Dr. Rosenberg found that [psychiatric diagnoses have no scientific basis](https://www.sciencedaily.com/releases/2019/07/190708131152.htm), and that looking at violence as a mental illness ignored the societal structures that promote this behavior.
 
-He found that religions of the world agree we're meant to live compassionately, but don't necessarily explain how to do that. Approaching the problem in another manner he studied the differences between the people he knew who were the most compassionate, and those who seemed to enjoy criticizing, blame, and attacking others. He used this research along with his education in psychology to develop this process of nonviolent communication.
+He found that religions of the world agree we're meant to live compassionately, but don't necessarily explain how to do that. He then studied the differences between the people, he knew, who were the most compassionate, and those who seemed to enjoy criticizing, blaming, and attacking others. He used this research along with his education in psychology to develop this process of called nonviolent communication.
 
-While developing NVC, he found the process to be much more effective as a healing tool in his practice of clinical psychology than how he was taught to do psychotherapy in university.
+While developing NVC, he found the process to be much more effective as a healing tool, in his practice of clinical psychology, than how he was taught to do psychotherapy in university.
 
 ## Premise
 
 Nonviolent communication requires a radical transformation of our habits in communication. 
 
-Dr. Rosenberg suggests that people have been [living under domination structures](https://www.opendemocracy.net/en/transformation/transforming-powers-continuing-relevance-of-walter-wink/) for most of recorded history, where some people claim to be superior, having the right to control others. People living under those structures have been taught a system of retributive justice, where if you are judged as good by authorities then you deserve to be rewarded, and [if you are judged as bad by the authorities, you deserve to suffer](http://www2.goshen.edu/~joannab/women/wink99.pdf). Additionally, we've learned to use a type of *language that describes what people are*: **good**, **bad**, **right**, **wrong**; rather than how their actions affect our lives.
+Dr. Rosenberg suggests that people have been [living under domination structures](https://www.opendemocracy.net/en/transformation/transforming-powers-continuing-relevance-of-walter-wink/) for most of recorded history, where some people claim to be superior, having the right to control others. 
 
-Dr. Rosenberg says that whenever we're feeling anger, depression, guilt, or shame, we're thinking in a way that contributes to violence, a way of thinking designed to make us obedient to authority.
+People living under those structures have been taught a system of retributive justice, where if you are judged as good by authorities then you deserve to be rewarded, and [if you are judged as bad by the authorities, you deserve to suffer](http://www2.goshen.edu/~joannab/women/wink99.pdf). Additionally, we've learned to use a type of *language that describes what people are*: **good**, **bad**, **right**, **wrong**; rather than how their actions impact our lives.
+
+Dr. Rosenberg taught that whenever we're feeling anger, depression, guilt, or shame, we're thinking in a way that contributes to violence, a way of thinking designed to make us obedient to authority.
 
 OJ Harvey took samples of literature from around the world to discover how often language was used judging people's actions in this way, and then correlated that with measures of violence towards oneself and others, finding a high [correlation between the language of moralistic judgement and violence](https://archive.org/stream/conceptualsystem00harv/conceptualsystem00harv_djvu.txt). 
 
 In contrast, Nonviolent communication focuses our attention on whether actions peoples actions are fulfilling our needs or not. Our own actions, and the actions of others. 
 
-Instead of judging what people are, we make clear observations of how actions are impacting needs. If our needs are not met, then we follow up our observation with a clear request of what would meet those needs.
+Instead of judging what people are, we make clear observations of whether their actions are fulfilling our needs. If our needs are not met, then we follow up our observation with a clear request of what would meet those needs. If our needs are met by their actions, we clearly communicate an appreciation of how our lives have been enriched.
 
 ## Components
 
 The language of nonviolent communication consists of **Feelings**, **Needs**, **Observations** and **Requests**.
 
-### Observations
-
-> "The ability to observe without evaluating is the highest form of intelligence." - Jiddu Krishnamurti
-
-Begin with a clear observation of what behavior is stimulating us to say something, avoiding language that sounds like criticism or blame. 
-
-This part might sound simple, but it's more common to tell people our evaluation of them in relation to the behavior, rather than its relationship with our needs. 
-
 ### Feelings 
 
-The process of nonviolent communication begins with our feelings, and requires that we learn to identify and name our emotions. To help with that there are some lists of different type of feeling words.  To say 'I feel good', or 'I feel bad', isn't very descriptive. Even if we do feel good, there are likely a number of other words that would more adequately convey what's alive in us.
+The process of nonviolent communication begins with our feelings, and requires that we learn to identify and name our emotions. To help with that there are some lists of different type of feeling words.  To say 'I feel good', or 'I feel bad', isn't very descriptive. 
 
-#### [Feelings Associated with Met Needs](https://www.nycnvc.org/feelings/)
+If we do feel good, there are likely a number of other words that would more adequately convey what's alive in us. Just as when we aren't feeling well, there are more descriptive words that can more accurately convey our emotional state.
+
+#### [Our Feelings When Needs are Met](https://www.nycnvc.org/feelings/)
 
 * **AFFECTIONATE**: compassionate, fond, loving, 
 tender, warm
@@ -97,11 +93,11 @@ edgy, fidgety, frazzled, frustrated, jittery,nervous, overwhelmed, restless, str
 
 An important premise underlying nonviolent communication is that it's our thinking that causes our emotions, not external events. Other people's words or behavior may very well be the stimulus for our feelings, but they are never the cause.
 
-In nonviolent communication, part of identifying our feelings discovering which need of ours is related to that emotion.
-
 ### Needs
 
-Dr. Rosenberg developed a list of what he determines to be [funadmental human needs](https://www.nycnvc.org/feelings/), based on [the work of Max-Neef](http://www.daghammarskjold.se/wp-content/uploads/1989/05/89_1.pdf), a Chilean economist who determined that the best way to measure an economy based on whether it's meeting fundamental human needs or not.
+In nonviolent communication, part of understanding our feelings is identifying which needs of ours are related to those feelings.
+
+Dr. Rosenberg developed a list of what he determined to be [funadmental human needs](https://www.nycnvc.org/feelings/), based on [the work of Max-Neef](http://www.daghammarskjold.se/wp-content/uploads/1989/05/89_1.pdf), a Chilean economist who determined that the best way to measure an economy based on whether it's meeting the needs of its people or not.
 
 #### [Needs Inventory](https://www.cnvc.org/training/resource/needs-inventory) 
 
@@ -123,6 +119,18 @@ A premise of NVC is that all actions are attempts to meet human needs, and that 
 
 Looking for the un-met need helps us to transcend the strategy level, where we can easily get caught in conflict.
 
+### Observations
+
+> "The ability to observe without evaluating is the highest form of intelligence." - Jiddu Krishnamurti
+
+Begin with a clear observation of what behavior has stimulating our emotions, avoiding language that sounds like criticism or blame. 
+
+This part might sound simple, but we're accustomed to making evaluations of what type of person they are, because of their actions, rather than how those actions affected our needs. 
+
+Observations are contrasted with diagnoses. An observation connected with a need might sound like, "I have a need for tranquility when its time for bed, and when you didn't come home on time angry and afraid". The diagnosis could sound like "you don't care about me, you only ever think of yourself".
+
+Both of those statements could be a response to the same situation, but in nonviolent communication we avoid diagnosing what we think people are. We create clear observations of a behavior and which needs of ours were, or were not, met by that behavior.
+
 ### Requests
 
 If our needs are not met in a situation, it's important to be clear what would meet our needs in this moment, avoiding vague language, or only stating what you don't want. 
@@ -139,13 +147,15 @@ To illustrate the danger of a language that denies choice, Rosenberg provides th
 
 At his war trial, asked if it was difficult to send thousands to their deaths, Eichmann responded that their [bureaucratic language](https://www.youtube.com/watch?v=Sk9-3bMAGBw) made it easy. If someone asked why they did it, they would say 'I had no choice', 'superiors orders', 'it's the law'. 
 
-Because of this concern, nonviolent communication emphasizes that we avoid any language that implies we have no choice, and that the use of words like 'have to', 'ought', 'must' results in people who don't feel responsible for their actions.
+Because of this concern, nonviolent communication emphasizes that we avoid any language that implies we have no choice, and suggests that the use of words like 'have to', 'ought', 'must' results in people who don't feel responsible for their actions.
 
 ## Conclusion
 
-Nonviolent communication not a complex system, but it does express some profound truths that I'm not sure I can properly convey. One of the most impactful, to me, is the concept of retributive justice. I've begun to see how deeply ingrained it is, in my own consciousness, and the world around me. 
+Nonviolent communication has a handful of moving parts, and involves learning a new way to think about ourselves and our relationships. While it's not an overly complex system, it does express some profound truths that I'm not sure I'm able to properly convey. 
 
-I feel like there's a lot of ground for me to cover still, in nonviolent communication. I intend to spend a lot more time working on this, what I believe to be the most valuable teaching available for promoting peace on earth.
+One of the most impactful, to me, is the concept of retributive justice. I've begun to see how deeply ingrained it is, in my own consciousness, and the world around me. 
+
+I feel like there's a lot of ground for me to cover still, in nonviolent communication. I intend to spend a lot more time working on this, what I believe to be the most valuable teaching available for promoting peace on the plant.
 
 ## Further Study
 

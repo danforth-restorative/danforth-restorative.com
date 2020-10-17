@@ -1,70 +1,28 @@
-# The Butler
+# Danforth Restorative
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+This is my personal blog and is the home-page for articles and projects related to my addictions recovery, restorative practices, and personal growth.
 
-![Cecil preview](static/images/cecil-preview.png)
+## Personal Blog and Restorative Topics
 
-## There is a demo?
+Curation and publishing of digital infostreams. Making difficult topics more easily accessible: Nonviolent communication, Anti-racism #BLM, Anti-Sexism #metoo, allyship education, emotional intelligence, personal development and transformative practices.
 
-:arrow_forward: [the-butler.cecil.app](https://the-butler.cecil.app) (theme: [Hyde](https://github.com/Cecilapp/theme-hyde))  
-:arrow_forward: [the-butler-garth.now.sh](https://the-butler-garth.now.sh) (theme: [Garth](https://github.com/Cecilapp/theme-garth))
+### Me
 
-## How to use?
+- Twitter: [@DavidDanforth12](https://twitter.com/DavidDanforth12) 
+- Facebook: [@danforth.restorative](https://www.facebook.com/danforth.restorative)
 
-### Managing content
+### Danforth Restorative
 
-#### With [Forestry](https://forestry.io)
+- Facebook: [@Danforth-Restorative](https://www.facebook.com/Danforth-Restorative-107314361144994)
+- GitHub: [@danforth-restorative](https://github.com/danforth-restorative)
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+### DigitalSkills.Info
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
+- Web: [DigitalSkills.Info](https://digitalskills.info)
+- Facebook: [@digital.skills.info](https://www.facebook.com/digital.skills.info)
 
-#### Manually
+### Marshall Rosenberg Quotes
 
-Edit content files in `content/blog/` directly from your repository.
-
-### Deploy
-
-#### To [Netlify](https://www.netlify.com) ([demo](https://the-butler.cecil.app))
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
-
-To use [**Netlify CMS**](https://www.netlifycms.org) ([demo](https://the-butler.cecil.app/admin/)) you must:
-1. enable [Netlify Identity](https://docs.netlify.com/visitor-access/git-gateway/#setup-and-settings) and Git Gateway
-2. invite a user
-3. connect to `https://<your-blog>.netlify.com/admin/` with the user credentials
-
-#### To [Vercel](https://vercel.com) ([demo](https://vercel.cecil.app))
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Cecilapp/the-butler)
-
-#### To [Render](https://render.com) ([demo](https://the-butler.onrender.com))
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Cecilapp/the-butler)
-
-#### With [Travis CI](https://travis-ci.com)
-
-See [Travis config file](/.travis.yml).
-
-#### With [GitLab CI](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) ([demo](https://narno.gitlab.io/the-butler/))
-
-See [GitLab config file](/.gitlab-ci.yml).
-
-#### With [GitHub Actions](https://github.com/features/actions) ([demo](https://cecilapp.github.io/the-butler/))
-
-Edit [GitHub Actions workflow file](/.github/workflows.disabled/build-and-deploy.yml) and rename `workflows.disabled` to `workflows` to enable the workflow.
-
-### Customize your blog
-
-1. Update configuration by editing `config.yml` file
-2. Change templates by copying files from `themes/<theme>/layouts/` to your own `layouts/` directory to _override_ them.
-
-## Need Help?
-
-Read the [Cecil's documentation](https://cecil.app/documentation/).
-
-## License
-
-Starter blog is a free software distributed under the terms of the MIT license.
-
-© [Arnaud Ligny](https://arnaudligny.fr)
+- Twitter: [@MBR_Quotes](https://twitter.com/MBR_Quotes)
+- Facebook: [@Marshall.Rosenberg.Quotes](https://www.facebook.com/Marshall.Rosenberg.Quotes)
+- GitHub: [danforth-restorative/MBR_Quotes](https://github.com/danforth-restorative/MBR_Quotes)
