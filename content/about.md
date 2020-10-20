@@ -25,7 +25,7 @@ Curation and publishing of digital infostreams. Making difficult topics more eas
 ### DigitalSkills.Info
 
 - Web: [DigitalSkills.Info](https://digitalskills.info)
-- Facebook: [@digital.skills.info](https://www.facebook.com/digital.skills.info)
+- Facebook: [@digital.skills.info](https://www.facebook.com/digitalskills.info)
 
 ### Marshall Rosenberg Quotes
 
