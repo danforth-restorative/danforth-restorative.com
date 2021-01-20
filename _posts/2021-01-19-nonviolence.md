@@ -9,7 +9,13 @@ tags:
 published: false
 ---
 
-This article follows the philosophy and practice of nonviolence, as taught and lived by its greatest leaders. The first part of this article will cover the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible. The second part will share some of the message of Walter Wink and Marshall Rosenberg, who shared important truths that can help to fulfil the vision of Gandhi and King.
+This article follows the philosophy and practice of nonviolence, as taught and lived by some of its greatest leaders. 
+
+The first part of this article aims to relate what exactly is nonviolence, along with how widespread and developed it is as a practice. 
+
+the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible with a commitment to nonviolent resistance fueled by love. 
+
+The second part will share some of the message of Walter Wink who revealed the Myth of Redemptive Violence, and Marshall Rosenberg, who found the root of violence in our language and taught a system to transform it. 
 
 ## Nonviolent Impact
 
@@ -17,7 +23,7 @@ Nonviolence is not pacifism, nor does it mean simply abstaining from violence. N
 
 [![](nonviolent-vs-violent.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
 
-**If you haven't already been immersed in the culture and media of nonviolence, it may surprise you to learn that nonviolent resistance is more popular than ever, and has been found to be more effective than violent strategies.**
+**If you haven't already been immersed in the culture and media of nonviolence, it may surprise you to learn that nonviolent resistance is more popular than ever, while also being more effective than violent strategies.**
 
 As long as we are reliant on corporate media for news about the world, we're unlikely to learn about the rise of nonviolence or its growing impact on our planet. 
 
@@ -52,7 +58,7 @@ A description and historical examples of each can be found in [Volume Two of The
 
 ## Nonviolent Roots
 
-I began this post with the idea of sharing some of its underlying philosophy and guiding principles as taught by its greatest leaders.
+As I'm only now recognizing the importance and growing impact of nonviolent resistance, 
 
 ### Mahatma Gandhi (1869 – 1948)
 
