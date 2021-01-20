@@ -9,6 +9,8 @@ description:      'Personal blog and restorative practice: Nonviolence, Anti-Rac
 url:              https://danforth-restorative.com/
 baseurl:          ''
 
+image: /assets/images/Danforth-Restorative-og_MAKY_OREL.png
+
 author:
   name:           'David Danforth'
   url:            https://twitter.com/DavidDanforth12
@@ -36,3 +38,4 @@ defaults:
     values:
       layout: "post"
       comments: FALSE
+      image: /assets/images/Danforth-Restorative-og_MAKY_OREL.png

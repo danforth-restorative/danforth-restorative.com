@@ -26,7 +26,7 @@ This blog is also a place to get beyond my personal struggle, and raise up in th
 
 I want to acknowledge the systemic problems of sexism and racism, and make the information surrounding them easier to navigate. This is for my own education, to make them more approachable for others, on the web.
 
-It's important to be aware of our personal and societal problems, but also to get practical and seek creative ways to solve them. For me, that involves helping to proliferate the best information I can find, and create content that makes this more relatable to others.
+It's important to be aware of our personal and societal problems, but also to get practical, seeking creative ways to solve them. For me, that involves helping to proliferate the best information I can find, and create content that makes this more relatable to others.
 
 ## DigitalSkills.Info
 
