@@ -3,7 +3,7 @@ title: "Introduction to Nonviolent Communication"
 date: 2020-07-22
 description: Nonviolent communication is a value system designed to promote peace on the planet. 
 excerpt: Instead of judging what people are, we make clear observations of whether their actions are fulfilling our needs. If our needs are not met, then we follow up our observation with a clear request of what would meet those needs. If our needs are met by their actions, we clearly communicate an appreciation of how our lives have been enriched.
-image: /assets/images/Nonviolent-Communication_Language-of-Life.jpg
+image: /assets/images/Nonviolent-Communication.png
 tags:
   - Nonviolence
 draft: false
@@ -13,9 +13,11 @@ Nonviolent communication is a value system designed to promote peace on the plan
 
 It includes a philosophy and communication framework that lead to compassionate giving and meeting the needs of all participants.  
 
-I first encountered this message in a youtube video from an April 2000 [introductory workshop hosted by Marshall Rosenberg](https://www.youtube.com/watch?v=l7TONauJGfc). Marshall shares stories of using this technique for negotiation in longstanding tribal conflicts, racial violence, marital disputes, and healing mental\emotional wounds. 
+![](/assets/images/Nonviolent-Communication_Language-of-Life.jpg)
 
-It's underlying philosophy provides clarity around how we think about our emotions and fundamental human needs, and lays the groundwork for empathic connection with the people in our lives.
+I first encountered this message in a youtube video from an April 2000 [introductory workshop hosted by Marshall Rosenberg](https://www.youtube.com/watch?v=l7TONauJGfc). In this video, Marshall shares stories of using this technique for negotiation in longstanding tribal conflicts, racial violence, marital disputes and healing emotional wounds. 
+
+Nonviolent communication provides clarity around how we think about our emotions and fundamental human needs, laying the groundwork for empathic connection with the people in our lives.
 
 <!-- excerpt -->
 
