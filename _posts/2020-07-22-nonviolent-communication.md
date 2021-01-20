@@ -1,7 +1,9 @@
 ---
 title: "Introduction to Nonviolent Communication"
 date: 2020-07-22
-image: /images/Nonviolent-Communication_Language-of-Life.jpg
+description: Nonviolent communication is a value system designed to promote peace on the planet. 
+excerpt: Instead of judging what people are, we make clear observations of whether their actions are fulfilling our needs. If our needs are not met, then we follow up our observation with a clear request of what would meet those needs. If our needs are met by their actions, we clearly communicate an appreciation of how our lives have been enriched.
+image: /assets/images/Nonviolent-Communication_Language-of-Life.jpg
 tags:
   - Nonviolence
 draft: false
@@ -18,8 +20,6 @@ It's underlying philosophy provides clarity around how we think about our emotio
 <!-- excerpt -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l7TONauJGfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-There's no way I can capture the full impact of his message in this post. If you're interested, check out that video, and at the end of this post I'll provide some more resources for further study. Beyond that, I expect this is a subject I'll continue to create content on in the future.
 
 ## Background
 

@@ -3,7 +3,7 @@ title: "Intentions for this Blog"
 date: 2020-07-23
 tags:
   - Recovery
-draft: false
+published: false
 ---
 
 I've been slowly unravelling, over the past few years, trying to figure out how I got to where I did, and how to rebuild my life on a firm foundation. If there was a single straightforward answer to those questions, then I might not need to make this blog.

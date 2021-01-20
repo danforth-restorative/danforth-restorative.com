@@ -1,11 +1,12 @@
 ---
 title: The Rise of Nonviolence - Gandhi, King, Wink, Rosenberg
-description: the philosophy and practice of nonviolence, as taught and lived by its greatest leaders. The first part of this article will cover the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible. The second part will share some of the message of Walter Wink and Marshall Rosenberg, who shared important truths that can help to fulfil the vision of Gandhi and King.
-date: 2020-01-19
-image: /images/Nonviolent-Communication_Language-of-Life.jpg
+excerpt: This articles follows the philosophy and practice of nonviolence, as taught and lived by its greatest leaders. The first part reviews the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible. The second part will share some of the message of Walter Wink and Marshall Rosenberg, who shared important truths that can help to fulfil the vision of Gandhi and King.
+description: This article follows the philosophy and practice of nonviolence, as taught and lived by its greatest leaders. The first part reviews the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible. The second part will share some of the message of Walter Wink and Marshall Rosenberg, who shared important truths that can help to fulfil the vision of Gandhi and King.
+date: 2021-01-19
+image: /assets/images/Rise-of-Nonviolence.png
 tags:
   - Nonviolence
-draft: false
+published: false
 ---
 
 This article follows the philosophy and practice of nonviolence, as taught and lived by its greatest leaders. The first part of this article will cover the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible. The second part will share some of the message of Walter Wink and Marshall Rosenberg, who shared important truths that can help to fulfil the vision of Gandhi and King.

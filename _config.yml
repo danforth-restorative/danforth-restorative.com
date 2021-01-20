@@ -3,15 +3,16 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            "Danforth Restorative"
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            "Danforth Danforth"
+tagline:          'Restorative Practice'
+description:      'Personal blog and restorative practice: Nonviolence, Anti-Racism, Anti-Sexism; Personal, Emotional and Spiritual Development.'
 url:              https://danforth-restorative.com/
 baseurl:          ''
 
 author:
   name:           'David Danforth'
   url:            https://twitter.com/DavidDanforth12
+  picture:        '/assets/images/dand.jpg'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
@@ -22,8 +23,16 @@ plugins:
   - jekyll-seo-tag
 
 # Sidebar link settings
-sidebar_home_link:  true
+# sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      comments: FALSE
