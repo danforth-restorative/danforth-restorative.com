@@ -3,6 +3,8 @@ title: "Introduction to Nonviolent Communication"
 date: 2020-07-22
 description: Nonviolent communication is a value system designed to promote peace on the planet. 
 excerpt: Instead of judging what people are, we make clear observations of whether their actions are fulfilling our needs. If our needs are not met, then we follow up our observation with a clear request of what would meet those needs. If our needs are met by their actions, we clearly communicate an appreciation of how our lives have been enriched.
+redirect_from:  /blog/nonviolent-communication/
+permalink: 
 image: /assets/images/Nonviolent-Communication.png
 tags:
   - Nonviolence

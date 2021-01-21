@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            "Danforth Danforth"
+title:            "David Danforth"
 tagline:          'Restorative Practice'
-description:      'Personal blog and restorative practice: Nonviolence, Anti-Racism, Anti-Sexism; Personal, Emotional and Spiritual Development.'
+description:      'Personal Blog and Restorative Practice: Nonviolence, Anti-Racism, Anti-Sexism; Personal Growth, Emotional and Spiritual Development.'
 url:              https://danforth-restorative.com/
 baseurl:          ''
 
