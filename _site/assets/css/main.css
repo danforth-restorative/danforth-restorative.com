@@ -19,6 +19,10 @@ a strong { color: inherit; }
 
 img { border-radius: 5px; display: block; height: auto; margin: 0 0 1rem; max-width: 100%; }
 
+.subscribe { width: 50%; margin-left: auto; margin-right: auto; }
+
+.subscribe input { text-align: center; }
+
 table { border: 1px solid #e5e5e5; border-collapse: collapse; font-size: 85%; margin-bottom: 1rem; width: 100%; }
 
 td, th { border: 1px solid #e5e5e5; padding: 0.25rem 0.5rem; }
