@@ -5,7 +5,7 @@ excerpt: >
 
   That could have something to do with that theologian Walter Wink called the Myth of Redemptive Violence, a pattern that's been repeated in nearly every story ever told. 
 description: Gandhi and King offer powerful examples of what is possible with a commitment to nonviolent resistance, fueled by love. Their nonviolent practices have been followed to great effect, but their examples of love, in the face of oppression are difficult to follow.
-date: 2021-01-19
+date: 2021-01-21
 image: /assets/images/Rise-of-Nonviolence.png
 tags:
   - Nonviolence
