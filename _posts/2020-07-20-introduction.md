@@ -17,7 +17,7 @@ Gratefully, I had some help coming to the stark realization of exactly how far I
 
 <!-- excerpt -->
 
-![](/images/david.jpeg)
+![](/assets/images/david.jpeg)
 
 I grew up with a lot of pain that I attributed to the world around me. While I had some just grievances, much of my angst was misguided. It's taken far too too long, for me to realize that. 
 
