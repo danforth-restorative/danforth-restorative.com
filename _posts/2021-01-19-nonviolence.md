@@ -1,5 +1,5 @@
 ---
-title: The Rise of Nonviolence – Gandhi • King • Wink • Rosenberg
+title: "The Rise of Nonviolence: Gandhi, King, Wink, Rosenberg"
 excerpt: >
   Gandhi and King offer powerful examples of what is possible with a commitment to nonviolent resistance, fueled by love. Their nonviolent practices have been followed to great effect, but their examples of love, in the face of oppression are difficult to follow.
 
@@ -10,6 +10,8 @@ image: /assets/images/Rise-of-Nonviolence.png
 tags:
   - Nonviolence
 ---
+
+![](/assets/images/gandhi-king-wink-rosenberg.webp)
 
 Mahatmas Gandhi was the first in modern times to take Jesus' message of nonviolence seriously. Fueled by love, he galvanized a mass movement that helped to free India from British rule.
 
@@ -68,6 +70,8 @@ Here I'd like to set the backdrop by exploring the two most widely successful an
 
 ### Mahatma Gandhi (1869 – 1948)
 
+![](/assets/images/mahatma-gandhi-310552_Clker-Free-Vector-Images.webp)
+
 Teachers of nonviolent practices and philosophy stretch back through recorded history. However, Gandhi was the first leader to take that message to the global stage. He brought together the principles of nonviolence into a coherent teaching, and practice that was used effectively to combat injustices and win political causes.
 
 The spiritual component was central to the message of Gandhi. He preached a message of love, self sacrifice, and willingness to suffer for a cause. He was a devout soul who had a way of attracting national attention to his cause, bringing pressure to authorities, affecting positive change.
@@ -111,7 +115,9 @@ These people take a pledge and begin a program of self-purification. This helps 
 * **Constructive Program** - It's important not only to protest and call for reform of practices we want abolished, but to establish a program for the overall betterment of our communities and society at large. The better and more positive structures we construct, the less need for civil resistance.
 
 ### Martin Luther King Jr (1929 - 1968)
- 
+
+![](/assets/images/martin-luther-king-OpenClipart-Vectors.webp) 
+
 > The whole Gandhian concept of satyagraha (*satya* is truth which equals love, and *graha* is force; *satyagraha* thus means truth-force or love-force) was profoundly significant to me. As I delved deeper into the philosophy of Gandhi my skepticism concerning the power of love gradually diminished, and I came to see for the first time that the Christian doctrine of love operating through the Gandhian method of nonviolence was one of the most potent weapons available to oppressed people in their struggle for freedom. - [Martin Luther King Jr.](https://kinginstitute.stanford.edu/king-papers/documents/pilgrimage-nonviolence)
 
 Dr. King's earliest encounter with nonviolent resistance was reading Henry David Thoreau's Civil Disobedience, while at Morehouse. During his studies in theological seminary he became influenced by the social gospel, reading [Christianity and the Social Crisis](http://www.americanyawp.com/reader/20-the-progressive-era/walter-rauschenbusch-christianity-and-the-social-crisis-1907/) by Walter Rauschenbusch. He then began a serious study of the social and ethical theories of the great philosophers. King had become quite skeptical of the power of love in resolving social struggles, that was until he encountered the teachings of Mahatma Gandhi. 
@@ -154,6 +160,8 @@ For that, we'll explore two other important (but lesser-known than King or Gandh
 
 ### Walter Wink (1935 - 2012)
 
+![](/assets/images/walter-wink.webp)
+
 Walter wink was an American biblical scholar, theologian, activist and advocate of nonviolent resistance. He had a way of uncovering potent truths in well-worn scriptures, and wrote [Jesus and Nonviolence: A Third Way](https://www.goodreads.com/book/show/121850.Jesus_and_Nonviolence) describing [Jesus's message of nonviolence](https://cpt.org/files/BN%20-%20Jesus%27%20Third%20Way.pdf), as being far from passive resistance, but instead, as a radical and creative force.
 
 > Jesus does not encourage Jews to walk a second mile in order to build up merit in heaven, or to be pious, or to kill the soldier with kindness. He is helping an oppressed people find a way to protest and neutralize an onerous practice despised throughout the empire. He is not giving a nonpolitical message of spiritual world transcendence. He is formulating a worldly spirituality in which the people at the bottom of society or under the thumb of imperial power learn to recover their humanity.
@@ -169,6 +177,8 @@ In the [Myth of Redemptive Violence](http://www2.goshen.edu/~joannab/women/wink9
 This pattern stretches back throughout recorded history, all the way back to [Enuma Elish](https://www.ancient.eu/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/), a Babylonian creation epic. Now that I've seen it, I see it everywhere. *Hidden in plain sight* for thousands of years. I can't help but think that Walter Wink is tremendously under-appreciated.
 
 ### Marshall B. Rosenberg (1934 - 2015)
+
+![](/assets/images/marshall-rosenberg.webp)
 
 > If we change ourselves we can change the world, and changing ourselves begins with changing our language and methods of communication. -Arun Gandhi 
 
@@ -247,6 +257,8 @@ Anytime people hear criticism or demands, that makes it very difficult for peopl
 
 ### Conclusion
 
+![](/assets/images/power-love.webp)
+
 Mahatma Gandhi and Martin Luther King Jr are incredible examples of what is possible when nonviolent resistance is undertaken with a heart of love and compassion. 
 
 The difficulty is that the atmosphere of our times is not always conducive to nurturing that heart and spirit. 
@@ -267,18 +279,17 @@ This article is only the briefest introduction to the subjects it relates, but m
 * [Nonviolent Communication: A Language of Life - Chapter 1](https://www.cnvc.org/training/resource/book-chapter-1)
 * [NVC Instruction Guide](https://www.cnvc.org/sites/default/files/NVCInstructionGuide_Jiva_.pdf)
 
-### Subscribe for Updates
+<h3><center>Subscribe for Updates</center></h3>
 
-<p><center><b>E-mail Subscription Form</b></center></p>
 <form method="POST" class="subscribe" action="https://digitalskills.info/staticman/v2/entry/danforth-restorative/subscribe/master/subscribe">
   <input name="options[redirect]" type="hidden" value="https://danforth-restorative.com/thank-you/">
-  <input name="options[slug]" type="hidden" value="restorative">
-  <input name="fields[name]" type="text" placeholder="Name">
-  <input name="fields[email]" type="email" placeholder="Email">
-  <textarea type="text" rows="5" cols="33" placeholder="Your interest in this project." name="fields[message]" tabindex="1"></textarea>  
+  <center><input name="options[slug]" type="hidden" value="restorative">
+  <input name="fields[name]" type="text" placeholder="Name"><br>
+  <input name="fields[email]" type="email" placeholder="Email"><br></center>
+  <center><textarea type="text" rows="5" cols="33" placeholder="Your interest in this project." name="fields[message]" tabindex="1"></textarea></center>
   <center><button type="submit">Subscribe</button></center>
 </form>
 
-### Support my work on Patreon
+<h3><center>Support this project on Patreon</center></h3>
 
-<a href="https://www.patreon.com/bePatron?u=44125162" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<center><a href="https://www.patreon.com/bePatron?u=44125162" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></center>
