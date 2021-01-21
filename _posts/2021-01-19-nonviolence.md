@@ -1,7 +1,10 @@
 ---
-title: The Rise of Nonviolence - Gandhi, King, Wink, Rosenberg
-excerpt: This articles follows the philosophy and practice of nonviolence, as taught and lived by its greatest leaders. The first part reviews the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible. The second part will share some of the message of Walter Wink and Marshall Rosenberg, who shared important truths that can help to fulfil the vision of Gandhi and King.
-description: This article follows the philosophy and practice of nonviolence, as taught and lived by its greatest leaders. The first part reviews the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible. The second part will share some of the message of Walter Wink and Marshall Rosenberg, who shared important truths that can help to fulfil the vision of Gandhi and King.
+title: The Rise of Nonviolence – Gandhi • King • Wink • Rosenberg
+excerpt: >
+  Gandhi and King offer powerful examples of what is possible with a commitment to nonviolent resistance, fueled by love. Their nonviolent practices have been followed to great effect, but their examples of love, in the face of oppression are difficult to follow.
+
+  That could have something to do with that theologian Walter Wink called the Myth of Redemptive Violence, a pattern that's been repeated in nearly every story ever told. 
+description: Gandhi and King offer powerful examples of what is possible with a commitment to nonviolent resistance, fueled by love. Their nonviolent practices have been followed to great effect, but their examples of love, in the face of oppression are difficult to follow.
 date: 2021-01-19
 image: /assets/images/Rise-of-Nonviolence.png
 tags:
@@ -10,11 +13,11 @@ tags:
 
 Mahatmas Gandhi was the first in modern times to take Jesus' message of nonviolence seriously. Fueled by love, he galvanized a mass movement that helped to free India from British rule.
 
-Inspired by the example of Gandhi's nonviolent resistance, and also by the message of nonviolent Jesus, Martin Luther King Jr led the US civil rights movement that fought for equal treatment under the law for black people.
+Inspired by the example of Gandhi's nonviolent resistance, and also by the message of nonviolent Jesus, Martin Luther King Jr led the US civil rights movement that fought for equal treatment under the law for African Americans.
 
 Gandhi and King offer powerful examples of what is possible with a commitment to nonviolent resistance, fueled by love. Their nonviolent practices have been followed to great effect, but their examples of love, in the face of oppression are harder to follow.
 
-This may have something to do with that theologian Walter Wink called the Myth of Redemptive Violence, that's been repeated in nearly every story ever told. 
+That could have something to do with that theologian Walter Wink called the Myth of Redemptive Violence, that's been repeated in nearly every story ever told. 
 
 Similarly, Marshall Rosenberg found the root of violence in the way we speak and think. He also taught a language way of thinking to transform it into a way of thinking and speaking that serve life. 
 
