@@ -23,6 +23,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Sidebar link settings
 # sidebar_home_link:  true
