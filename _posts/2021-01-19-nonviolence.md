@@ -27,13 +27,13 @@ This article follows the philosophy and practice of nonviolence, as taught and l
 
 Nonviolence is not pacifism, nor does it mean simply abstaining from violence. Nonviolence is a creative pursuit which seeks peaceful means to resist oppression, resolve conflicts, and bring about change. 
 
-[![/assets/images/nonviolent-vs-violent.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
+[![](/assets/images/nonviolent-vs-violent.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
 
 **If you haven't already been immersed in the culture and media of nonviolence, it may surprise you to learn that nonviolent resistance is more popular than ever, while also being more effective than violent strategies.**
 
 As long as we are reliant on corporate media for news about the world, we're unlikely to learn about the rise of nonviolence or its growing impact on our planet. 
 
-[![/assets/images/nonviolent-vs-violent-success-rates.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
+[![](/assets/images/nonviolent-vs-violent-success-rates.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
 
 One reason for that is that humans have evolved so that [negative stories and experiences captivate us more deeply](https://letter.ly/negative-news-statistics/) than positive stories and experiences. 
 
