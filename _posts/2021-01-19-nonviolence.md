@@ -6,28 +6,31 @@ date: 2021-01-19
 image: /assets/images/Rise-of-Nonviolence.png
 tags:
   - Nonviolence
-published: false
 ---
 
-This article follows the philosophy and practice of nonviolence, as taught and lived by some of its greatest leaders. 
+Mahatmas Gandhi was the first in modern times to take Jesus' message of nonviolence seriously. Fueled by love, he galvanized a mass movement that helped to free India from British rule.
 
-The first part of this article aims to relate what exactly is nonviolence, along with how widespread and developed it is as a practice. 
+Inspired by the example of Gandhi's nonviolent resistance, and also by the message of nonviolent Jesus, Martin Luther King Jr led the US civil rights movement that fought for equal treatment under the law for black people.
 
-the teachings of Mahatmas Gandhi and Martin Luther King Jr, who gave us powerful examples of what is possible with a commitment to nonviolent resistance fueled by love. 
+Gandhi and King offer powerful examples of what is possible with a commitment to nonviolent resistance, fueled by love. Their nonviolent practices have been followed to great effect, but their examples of love, in the face of oppression are harder to follow.
 
-The second part will share some of the message of Walter Wink who revealed the Myth of Redemptive Violence, and Marshall Rosenberg, who found the root of violence in our language and taught a system to transform it. 
+This may have something to do with that theologian Walter Wink called the Myth of Redemptive Violence, that's been repeated in nearly every story ever told. 
+
+Similarly, Marshall Rosenberg found the root of violence in the way we speak and think. He also taught a language way of thinking to transform it into a way of thinking and speaking that serve life. 
+
+This article follows the philosophy and practice of nonviolence, as taught and lived by some of its greatest leaders. First, lets step back and review what exactly is nonviolence review the impact and proliferation of nonviolence. 
 
 ## Nonviolent Impact
 
-Nonviolence is not pacifism, nor does it mean simply abstaining from violence. Nonviolence is an active pursuit which seeks peaceful means to resist oppression, resolve conflicts, and bring about change. 
+Nonviolence is not pacifism, nor does it mean simply abstaining from violence. Nonviolence is a creative pursuit which seeks peaceful means to resist oppression, resolve conflicts, and bring about change. 
 
-[![](nonviolent-vs-violent.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
+[![/assets/images/nonviolent-vs-violent.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
 
 **If you haven't already been immersed in the culture and media of nonviolence, it may surprise you to learn that nonviolent resistance is more popular than ever, while also being more effective than violent strategies.**
 
 As long as we are reliant on corporate media for news about the world, we're unlikely to learn about the rise of nonviolence or its growing impact on our planet. 
 
-[![](nonviolent-vs-violent-success-rates.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
+[![/assets/images/nonviolent-vs-violent-success-rates.webp)](https://www.journalofdemocracy.org/articles/the-future-of-nonviolent-resistance-2/)
 
 One reason for that is that humans have evolved so that [negative stories and experiences captivate us more deeply](https://letter.ly/negative-news-statistics/) than positive stories and experiences. 
 
@@ -37,7 +40,7 @@ Another reason is that the corporate media has a lot more funding and is highly 
 
 In [Nonviolence: the history of a dangerous idea](https://1lib.us/book/1309893/256eca), Mark Kurlansky tells the story of proponents of nonviolence, throughout the ages, and the opposition they have faced from the state. 
 
-Persecuted and crucified, their message of nonviolence was co-opted and modified, its intent suppressed, to promote (or at least not disturb) violence enforced by the state.
+Throughout the ages, champions of nonviolence have been persecuted and crucified, their message co-opted and modified, its intent suppressed, to enable violence enforced by the state.
 
 [25 Lessons of Nonviolence](https://en.wikipedia.org/wiki/Nonviolence:_The_History_of_a_Dangerous_Idea) (from Kurlansky's book):
 > 3. Practitioners of nonviolence are seen as enemies of the state.
@@ -47,7 +50,7 @@ Persecuted and crucified, their message of nonviolence was co-opted and modified
 
 For all of the opposition that these ideas and their adherents have faced, the heart of nonviolence persists more widely-known and practiced than ever before. 
 
-Today, peace activists have an arsenal of nonviolent strategies,  tried and tested, at our disposal.
+Today, activists have an arsenal of nonviolent techniques, tried and tested, at our disposal.
 
 The Albert Einstein Institution has classified [198 METHODS OF NONVIOLENT ACTION](https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf) into three broad categories: 
 * **protest and persuasion**
@@ -58,13 +61,13 @@ A description and historical examples of each can be found in [Volume Two of The
 
 ## Nonviolent Roots
 
-As I'm only now recognizing the importance and growing impact of nonviolent resistance, 
+Here I'd like to set the backdrop by exploring the two most widely successful and well-known leaders of nonviolent resistance. Its important to consider what made these men great, what is their philosophy? What is the structure of their practice?
 
 ### Mahatma Gandhi (1869 – 1948)
 
 Teachers of nonviolent practices and philosophy stretch back through recorded history. However, Gandhi was the first leader to take that message to the global stage. He brought together the principles of nonviolence into a coherent teaching, and practice that was used effectively to combat injustices and win political causes.
 
-The spiritual component was central to the message of Gandhi. He preached a message of love and self sacrifice. He was a devout soul who had a way of attracting national attention to his cause, bringing pressure to authorities and affect a positive change.
+The spiritual component was central to the message of Gandhi. He preached a message of love, self sacrifice, and willingness to suffer for a cause. He was a devout soul who had a way of attracting national attention to his cause, bringing pressure to authorities, affecting positive change.
 
 There are **three central components to Gandhian nonviolence**. *Ahimsa*, *satyagraha*, and *tapasya*.
 
@@ -72,11 +75,11 @@ There are **three central components to Gandhian nonviolence**. *Ahimsa*, *satya
 
 Literally speaking, **Ahimsa** is a Sanskrit term meaning 'non-injury' or 'non-killing'. Gandhi developed the term more fully to mean non-violence in thought, word, or deed towards all sentient beings. The term also implies strength of will, which Gandhi believed to be the seat of our power, rather than physical force.
 
-Ahimsa, like nonviolence, is a general term under which a variety of practices could be categorized.  Truth and Love are at the core of Ahimsa, which is not related to pacifism, or failure to harm, but a positive doing of good.
+Ahimsa, like nonviolence, is a general term under which a variety of practices could be categorized.  Truth and Love are at the core of Ahimsa, which is not related to pacifism, or a simple failure to harm, but an active process of doing good.
 
 #### Satyagraha
 
-**Satyagraha**, on the other hand, involves practical use of nonviolent techniques for resisting unjust laws. It is a fulfilling of ahimsa in the political realm.
+**Satyagraha**, on the other hand, involves practical use of nonviolent techniques for resisting unjust laws. It fulfills of ahimsa in the political realm.
 
 [*Satyagraha*](https://en.wikipedia.org/wiki/Satyagraha) is a compound word made of the words [*satya*](https://en.wikipedia.org/wiki/Satya) and *agraha*. Satya means truth or essence, it root [*sat*](https://en.wikipedia.org/wiki/Sat_(Sanskrit)) stands for *being* or *the true essence*. [Agraha](https://www.wisdomlib.org/definition/agraha#sanskrit) means willpower, determination or persistance. 
 
@@ -110,7 +113,7 @@ These people take a pledge and begin a program of self-purification. This helps 
 
 Dr. King's earliest encounter with nonviolent resistance was reading Henry David Thoreau's Civil Disobedience, while at Morehouse. During his studies in theological seminary he became influenced by the social gospel, reading [Christianity and the Social Crisis](http://www.americanyawp.com/reader/20-the-progressive-era/walter-rauschenbusch-christianity-and-the-social-crisis-1907/) by Walter Rauschenbusch. He then began a serious study of the social and ethical theories of the great philosophers. King had become quite skeptical of the power of love in resolving social struggles, that was until he encountered the teachings of Mahatma Gandhi. 
 
-Little did he know that he would soon play an active role in nonviolent resistance. After graduating seminary, King became a pastor in Montgomery Alabama, where he was appointed spokesperson for the protesters who organized the Montgomery bus boycotts. During this time, his mind was drawn back to Jesus' Sermon on the Mount and Gandhi's methods of nonviolent resistance, seeing that Jesus provided the spirit and Gandhi provided the methods.
+Little did he know that he would soon play an active role in nonviolent resistance. After graduating seminary, King became a pastor in Montgomery Alabama, where he was appointed spokesperson for the protesters who organized the Montgomery bus boycotts. During this time, his mind was drawn back to Jesus' Sermon on the Mount and Gandhi's methods of nonviolent resistance, seeing how Jesus provided the spirit and Gandhi provided the methods.
 
 #### Three Major Evils
 
@@ -140,27 +143,31 @@ These principles have much in common with Gandhian values. They are meant to aro
 
 ## Roots of Violence
 
-Gandhi and King have both achieved great works with nonviolent methods. They led movements that effected great change and challenged the injustices of the world. Each taught a message of love, at the core of their frameworks for nonviolence, however, loving ones enemy as ones self is easier said than done.
+Gandhi and King have both achieved great works with nonviolent methods. They led movements that challenged the injustices in their worlds, and affected great change. They each held firm to a message of love, at the core of their frameworks for nonviolence.
 
-While their teaching and practices can be followed to great effect, if we wish to follow in their footsteps, it may serve us to first deal with the the source of violence, and understand how its ideology proliferates. For that, we'll explore another two important figures in nonviolence.
+While their teaching and practices can be followed to great effect, if we wish to follow in their footsteps, it may serve us to first deal with the the source of violence in our lives, and understand how the ideology of violence proliferates. 
+
+For that, we'll explore two other important (but lesser-known than King or Gandhi) figures in nonviolence.
 
 ### Walter Wink (1935 - 2012)
 
 Walter wink was an American biblical scholar, theologian, activist and advocate of nonviolent resistance. He had a way of uncovering potent truths in well-worn scriptures, and wrote [Jesus and Nonviolence: A Third Way](https://www.goodreads.com/book/show/121850.Jesus_and_Nonviolence) describing [Jesus's message of nonviolence](https://cpt.org/files/BN%20-%20Jesus%27%20Third%20Way.pdf), as being far from passive resistance, but instead, as a radical and creative force.
 
-> Jesus does not encourage Jews to walk a second mile in order to build up merit in heaven, or to be pious,or to kill the soldier with kindness. He is helping an oppressed people find a way to protest and neutralize anonerous practice despised throughout the empire. He is not giving a nonpolitical message of spiritual world transcendence. He is formulating a worldly spirituality in which the people at the bottom of society or underthe thumb of imperial power learn to recover their humanity.
+> Jesus does not encourage Jews to walk a second mile in order to build up merit in heaven, or to be pious, or to kill the soldier with kindness. He is helping an oppressed people find a way to protest and neutralize an onerous practice despised throughout the empire. He is not giving a nonpolitical message of spiritual world transcendence. He is formulating a worldly spirituality in which the people at the bottom of society or under the thumb of imperial power learn to recover their humanity.
 
-Wink's explanation of Jesus' nonviolence distinctly reminds one of tactics and strategies employed by Gandhi and King. I would highly recommend a reading of Wink along with the above mentioned [Nonviolence: the history of a dangerous idea](https://1lib.us/book/1309893/256eca), by Mark Kurlansky.
+Wink's explanation of Jesus' nonviolence distinctly reminds me of the methods employed by Gandhi and King. I would highly recommend a reading of Wink along with the above mentioned [Nonviolence: the history of a dangerous idea](https://1lib.us/book/1309893/256eca), by Mark Kurlansky.
 
-Wink also is known for coining the phrase and discovering the "Myth of Redemptive Violence". He claims that this *myth of redemptive violence* has a stronger grasp on the world than any other.
+Wink also is known for discovering the "Myth of Redemptive Violence". He explains that this *myth of redemptive violence* has a stronger grasp on the world than any other.
 
 > The story that the rulers of domination societies told each other and their subordinates is what we today might call the Myth of Redemptive Violence. It enshrines the belief that violence saves, that war brings peace, that might makes right. It is one of the oldest continuously repeated stories in the world. 
 
 In the [Myth of Redemptive Violence](http://www2.goshen.edu/~joannab/women/wink99.pdf), Walter Wink relates how he noticed this same pattern repeating in the structure of cartoons. There is a hero who suffers under the bad guy, and the hero has to vanquish the bad guy and restore order. They never reconcile or figure out creative ways to solve their problems, but forever repeat this same pattern. 
 
-This pattern stretches back throughout recorded history, all the way back to [Enuma Elish](https://www.ancient.eu/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/), a Babylonian creation epic. Now that I've seen it, I can't help but see it everywhere. *Hidden in plain sight* for thousands of years. I can't help but think that Walter Wink is tremendously under-appreciated.
+This pattern stretches back throughout recorded history, all the way back to [Enuma Elish](https://www.ancient.eu/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/), a Babylonian creation epic. Now that I've seen it, I see it everywhere. *Hidden in plain sight* for thousands of years. I can't help but think that Walter Wink is tremendously under-appreciated.
 
 ### Marshall B. Rosenberg (1934 - 2015)
+
+> If we change ourselves we can change the world, and changing ourselves begins with changing our language and methods of communication. -Arun Gandhi 
 
 Marshall Rosenberg is an American psychologist who designed the process called [Nonviolent communication](https://www.cnvc.org/training/resource/book-chapter-1), and taught its practice and underlying philosophy.
 
@@ -196,6 +203,7 @@ The intention is that whatever we do is done willingly, not done out of guilt, s
 
 Likewise, that whatever we ask of others, we wish their cooperation only if it can be done with that same compassionate giving, never out of guilt, shame, or fear of punishment.
 
+Inbal and Miki Kashtan highlight the following [Key Assumptions and Intentions of NVC](https://baynvc.org/key-assumptions-and-intentions-of-nvc/):
 * All human beings share the same needs
 * All actions are attempts to meet needs
 * Feelings point to needs being met or unmet
@@ -207,7 +215,11 @@ Likewise, that whatever we ask of others, we wish their cooperation only if it c
 * Our world offers abundant resources for meeting needs
 * Human beings change
 
-[Key Assumptions and Intentions of NVC](https://baynvc.org/key-assumptions-and-intentions-of-nvc/) - Inbal and Miki Kashtan
+I'll add a few ideas I think are close to the heart of NVC:
+
+* Never hear what people think about you, hear the need they are expressing.
+* We often don't recognize what need we're trying to meet by an action.
+* Conflicts often resolve when both parties recognize each-others needs.
 
 #### Process
 
@@ -232,13 +244,13 @@ Anytime people hear criticism or demands, that makes it very difficult for peopl
 
 ### Conclusion
 
-Mahatma Gandhi and Martin Luther King Jr are incredible examples of what is possible when nonviolent resistance is undertaken with a heart of love and compassion. I will argue that their purity of heart and spirit were leading contributors to the growth and effectiveness of the movements that gathered around them.
+Mahatma Gandhi and Martin Luther King Jr are incredible examples of what is possible when nonviolent resistance is undertaken with a heart of love and compassion. 
 
-The difficulty is that the atmosphere of our times is not always conducive to nurturing that heart and spirit. Walter Wink helps us to understand how we come by this atmosphere of violence. He was the first to point out that the myth of redemptive violence stretches back through recorded history. 
+The difficulty is that the atmosphere of our times is not always conducive to nurturing that heart and spirit. 
 
-Supplementing Wink, Marshall Rosenberg determined that the way we talk and think are at the root of violence on this planet. Not only did he help to further uncover the source of violence, but offered a system that helps to undo the ways of thinking that contribute to violence. 
+Walter Wink helps us to understand how we learn to believe that violence saves.  Marshall Rosenberg expanded upon that truth and showed how the way we've learned to we speak and think re-enforce this culture of violence. Not only did he help to further uncover the source of violence, but offered a system that helps to undo the ways of thinking that contribute to violence. 
 
-Nonviolent communication has been used to mediate conflict between warring tribes, street gangs and family members. It has been used by Marshall Rosenberg and many others to support social causes, and find creative solutions for difficult problems. 
+This article is only the briefest introduction to the subjects it relates, but my intention was to highlight the power of nonviolence, it's methods, and essential teachings to understand and combat it in our hearts and minds.
 
 ## Resources
 
@@ -251,3 +263,19 @@ Nonviolent communication has been used to mediate conflict between warring tribe
 * [Myth of Redemptive Violence](http://www2.goshen.edu/~joannab/women/wink99.pdf), Walter Wink
 * [Nonviolent Communication: A Language of Life - Chapter 1](https://www.cnvc.org/training/resource/book-chapter-1)
 * [NVC Instruction Guide](https://www.cnvc.org/sites/default/files/NVCInstructionGuide_Jiva_.pdf)
+
+### Subscribe for Updates
+
+<p><center><b>E-mail Subscription Form</b></center></p>
+<form method="POST" class="subscribe" action="https://digitalskills.info/staticman/v2/entry/danforth-restorative/subscribe/master/subscribe">
+  <input name="options[redirect]" type="hidden" value="https://danforth-restorative.com/thank-you/">
+  <input name="options[slug]" type="hidden" value="restorative">
+  <input name="fields[name]" type="text" placeholder="Name">
+  <input name="fields[email]" type="email" placeholder="Email">
+  <textarea type="text" rows="5" cols="33" placeholder="Your interest in this project." name="fields[message]" tabindex="1"></textarea>  
+  <center><button type="submit">Subscribe</button></center>
+</form>
+
+### Support my work on Patreon
+
+<a href="https://www.patreon.com/bePatron?u=44125162" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
