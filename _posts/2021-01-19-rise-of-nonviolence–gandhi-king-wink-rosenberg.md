@@ -276,6 +276,7 @@ This article is only the briefest introduction to the subjects it relates, but m
 * [Kingian Nonviolence](https://kpfa.org/episode/against-the-grain-november-11-2020/) - KPFA, Against the Grain
 * [The King Philosophy](https://thekingcenter.org/king-philosophy/) - King Center
 * [Myth of Redemptive Violence](http://www2.goshen.edu/~joannab/women/wink99.pdf), Walter Wink
+* [Walter Wink: Nonviolence for the Violent](https://www.youtube.com/watch?v=SEL-ulRRMmk)
 * [Nonviolent Communication: A Language of Life - Chapter 1](https://www.cnvc.org/training/resource/book-chapter-1)
 * [NVC Instruction Guide](https://www.cnvc.org/sites/default/files/NVCInstructionGuide_Jiva_.pdf)
 
