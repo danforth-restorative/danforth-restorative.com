@@ -23,9 +23,11 @@ That could have something to do with that theologian Walter Wink called the Myth
 
 Similarly, Marshall Rosenberg found the root of violence in the way we speak and think. He also taught a language way of thinking to transform it into a way of thinking and speaking that serve life. 
 
-This article follows the philosophy and practice of nonviolence, as taught and lived by some of its greatest leaders. First, lets step back and review what exactly is nonviolence review the impact and proliferation of nonviolence. 
-
 ## Nonviolent Impact
+
+This article follows the philosophy and practice of nonviolence, as taught and lived by some of its greatest leaders. 
+
+But first, lets step back and review what exactly is nonviolence, along with its impact and proliferation. 
 
 Nonviolence is not pacifism, nor does it mean simply abstaining from violence. Nonviolence is a creative pursuit which seeks peaceful means to resist oppression, resolve conflicts, and bring about change. 
 
@@ -66,15 +68,15 @@ A description and historical examples of each can be found in [Volume Two of The
 
 ## Nonviolent Roots
 
-Here I'd like to set the backdrop by exploring the two most widely successful and well-known leaders of nonviolent resistance. Its important to consider what made these men great, what is their philosophy? What is the structure of their practice?
+Here I'd like to set the backdrop by exploring the two most widely successful and well-known leaders of nonviolent resistance. Its important to consider what made these men great, what is their philosophy, and what is the structure of their practice?
 
 ### Mahatma Gandhi (1869 – 1948)
 
 ![](/assets/images/mahatma-gandhi-310552_Clker-Free-Vector-Images.webp)
 
-Teachers of nonviolent practices and philosophy stretch back through recorded history. However, Gandhi was the first leader to take that message to the global stage. He brought together the principles of nonviolence into a coherent teaching, and practice that was used effectively to combat injustices and win political causes.
+Teachers of nonviolent practices and philosophy stretch back through recorded history. However, Gandhi was the first leader to take that message to the global stage. He brought together the principles of nonviolence into a coherent teaching and practice that have been used effectively to combat injustices and win political causes.
 
-The spiritual component was central to the message of Gandhi. He preached a message of love, self sacrifice, and willingness to suffer for a cause. He was a devout soul who had a way of attracting national attention to his cause, bringing pressure to authorities, affecting positive change.
+The spiritual component was central to the message of Gandhi. He preached a message of love, self sacrifice, and willingness to suffer for a cause. He was a devout soul who had a way of attracting national attention to his causes, bringing pressure to authorities, affecting positive change.
 
 There are **three central components to Gandhian nonviolence**. *Ahimsa*, *satyagraha*, and *tapasya*.
 
@@ -124,6 +126,10 @@ Dr. King's earliest encounter with nonviolent resistance was reading Henry David
 
 Little did he know that he would soon play an active role in nonviolent resistance. After graduating seminary, King became a pastor in Montgomery Alabama, where he was appointed spokesperson for the protesters who organized the Montgomery bus boycotts. During this time, his mind was drawn back to Jesus' Sermon on the Mount and Gandhi's methods of nonviolent resistance, seeing how Jesus provided the spirit and Gandhi provided the methods.
 
+A few years later, [he would travel to India](https://kinginstitute.stanford.edu/encyclopedia/india-trip), to deepen his understanding of Gandhian Nonviolence and see its impact first-hand. 
+
+> “Since being in India, I am more convinced than ever before that the method of nonviolent resistance is the most potent weapon available to oppressed people in their struggle for justice and human dignity. In a real sense, Mahatma Gandhi embodied in his life certain universal principles that are inherent in the moral structure of the universe, and these principles are as inescapable as the law of gravitation” 
+
 #### Three Major Evils
 
 Dr King spoke of 3 types of violence that he worked against, calling them the **Three Major Evils**. Those evils are *racism*, *poverty*, and *militarism*. He saw them as inter-related, if we are to combat one of them, then we must combat them all.
@@ -149,6 +155,12 @@ These principles have much in common with Gandhian values. They are meant to aro
 * **Discussion/negotiation**: Using grace, humour and intelligence, confront the other party with a list of injustices and a plan for addressing and resolving these injustices. Look for what is positive in every action and statement the opposition makes. Do not seek to humiliate the opponent but to call forth the good in the opponent.
 * **Direct action**: These are actions taken when the opponent is unwilling to enter into, or remain in, discussion/negotiation. These actions impose a “creative tension” into the conflict, supplying moral pressure on your opponent to work with you in resolving the injustice.
 * **Reconciliation**: Nonviolence seeks friendship and understanding with the opponent. Nonviolence does not seek to defeat the opponent. Nonviolence is directed against evil systems, forces, oppressive policies, unjust acts, but not against persons. Through reasoned compromise, both sides resolve the injustice with a plan of action. Each act of reconciliation is one step close to the ‘Beloved Community.’
+
+### Beloved Community
+
+The Beloved Community is a term coined by [Josiah Royce](https://en.wikipedia.org/wiki/Josiah_Royce), founder of the [Fellowship of Reconciliation](https://forusa.org/), of which King was a member. Dr. Kings vision of Beloved Community is a world of economic and social justice, where conflicts are resolved peacefully. 
+
+> Dr. King’s Beloved Community is a global vision, in which all people can share in the wealth of the earth. In the Beloved Community, poverty, hunger and homelessness will not be tolerated because international standards of human decency will not allow it. Racism and all forms of discrimination, bigotry and prejudice will be replaced by an all-inclusive spirit of sisterhood and brotherhood. In the Beloved Community, international disputes will be resolved by peaceful conflict-resolution and reconciliation of adversaries, instead of military power. Love and trust will triumph over fear and hatred. Peace with justice will prevail over war and military conflict. - [King Philosophy](https://thekingcenter.org/about-tkc/the-king-philosophy/)
 
 ## Roots of Violence
 
@@ -176,6 +188,8 @@ In the [Myth of Redemptive Violence](http://www2.goshen.edu/~joannab/women/wink9
 
 This pattern stretches back throughout recorded history, all the way back to [Enuma Elish](https://www.ancient.eu/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/), a Babylonian creation epic. Now that I've seen it, I see it everywhere. *Hidden in plain sight* for thousands of years. I can't help but think that Walter Wink is tremendously under-appreciated.
 
+> A domination system must have a domination myth, how­ ever, a story to explain how things got this way. For a story told often enough, and confirmed often enough in daily life, ceases to be a tale and is accepted as reality itself. And when that happens, people accept the story even if it is destroying their lives. – [The Powers That Be: Theology for a New Millennium](https://1lib.us/book/2495538/aa9274), Walter Wink
+
 ### Marshall B. Rosenberg (1934 - 2015)
 
 ![](/assets/images/marshall-rosenberg.webp)
@@ -184,7 +198,7 @@ This pattern stretches back throughout recorded history, all the way back to [En
 
 Marshall Rosenberg is an American psychologist who designed the process called [Nonviolent communication](https://www.cnvc.org/training/resource/book-chapter-1), and taught its practice and underlying philosophy.
 
-Growing up, Marshall Rosenberg experienced both tremendous violence, and great compassion. He studied psychology, hoping to learn what made it so that some people come to enjoy violence, and others give compassionately with joy. 
+Growing up, Marshall Rosenberg experienced both tremendous violence, and great compassion. He studied psychology hoping to learn what made it so that some people come to enjoy violence and others give compassionately with joy. 
 
 He saw that religions all agree that love and compassion are the way to live, but didn't provide a process on how to go about how to live that way. 
 
@@ -202,7 +216,7 @@ Marshall Rosenberg often quoted Walter Wink, and his teaching of Nonviolent Comm
 
 #### Premise
 
-Nonviolent communicaiton is a language, philosophy and communication system designed with the intent that the needs of all participants are met.
+Nonviolent communication is a language, philosophy and communication system designed with the intent that the needs of all participants are met.
 
 That we give solely out of the joy that comes naturally from contributing to life, our own life and the lives of others.
 
@@ -238,16 +252,16 @@ I'll add a few ideas I think are close to the heart of NVC:
 
 **Avoid** 
 
-Avoid any language that sounds like criticism, blame, or insults.
-Avoid presenting requests in a way where others hear demands.
-Anytime people hear criticism or demands, that makes it very difficult for people to enjoy contributing to one another's well being.
+- Avoid any language that sounds like criticism, blame, or insults.
+- Avoid presenting requests in a way where others hear demands.
+- Anytime people hear criticism or demands, that makes it very difficult for people to enjoy contributing to one another's well being.
 
-##### 4 Components of Nonviolent Communication
+##### [4 Components of Nonviolent Communication](https://www.cnvc.org/online-learning/nvc-instruction-guide/nvc-instruction-guide)
 
-* **Observation**:  Observation without evaluation consists of noticing concrete things and actions around us.  We learn to distinguish between judgment and what we sense in the present moment, and to simply observe what is there. 
+* **Observation**:  Observation without evaluation consists of noticing concrete things and actions around us. We learn to distinguish between judgment and what we sense in the present moment, and to simply observe what is there. 
 * **Feeling**:  When we notice things around us, we inevitably experience varying emotions and physical sensations in each particular moment. Here, distinguishing feelings from thoughts is an essential step to the NVC process.  
-* **Needs**:  All individuals have needs and values that sustain and enrich their lives.  When those needs are met, we experience comfortable feelings, like happiness or peacefulness, and when they are not, we experience uncomfortable feelings, like frustration.  Understanding that we, as well as those around us, have these needs is perhaps the most important step in learning to practice NVC and to live empathically.  
-* **Request**:  To make clear and present requests is crucial to NVC’s transformative mission.  When we learn to request concrete actions that can be carried out in the present moment, we begin to find ways to cooperatively and creatively ensure that everyone’s needs are met. 
+* **Needs**:  All individuals have needs and values that sustain and enrich their lives. When those needs are met, we experience comfortable feelings, like happiness or peacefulness, and when they are not, we experience uncomfortable feelings, like frustration.  Understanding that we, as well as those around us, have these needs is perhaps the most important step in learning to practice NVC and to live empathically.  
+* **Request**:  To make clear and present requests is crucial to NVC’s transformative mission. When we learn to request concrete actions that can be carried out in the present moment, we begin to find ways to cooperatively and creatively ensure that everyone’s needs are met. 
 
 ##### Distinguish between
 
@@ -263,9 +277,9 @@ Mahatma Gandhi and Martin Luther King Jr are incredible examples of what is poss
 
 The difficulty is that the atmosphere of our times is not always conducive to nurturing that heart and spirit. 
 
-Walter Wink helps us to understand how we learn to believe that violence saves.  Marshall Rosenberg expanded upon that truth and showed how the way we've learned to we speak and think re-enforce this culture of violence. Not only did he help to further uncover the source of violence, but offered a system that helps to undo the ways of thinking that contribute to violence. 
+Walter Wink helps us to understand how we've learned to believe that violence saves, and paints a radical portrait of Jesus as using creative solutions to social injustice. Marshall Rosenberg expanded upon Wink's message uncovering the root of violence in our language. He also furnished a system that helps to undo the ways of thinking that contribute to violence. 
 
-This article is only the briefest introduction to the subjects it relates, but my intention was to highlight the power of nonviolence, it's methods, and essential teachings to understand and combat it in our hearts and minds.
+I've found that exploring the teachings of Walter Wink and Marshall Rosenberg have greatly improved my relationships and overall temperament, providing a means of working towards the purity of heart evidenced in the lives of heros like Martin Luther King Jr and Mahatma Gandhi.
 
 ## Resources
 
