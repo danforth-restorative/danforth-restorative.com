@@ -293,6 +293,7 @@ I've found that exploring the teachings of Walter Wink and Marshall Rosenberg ha
 * [Walter Wink: Nonviolence for the Violent](https://www.youtube.com/watch?v=SEL-ulRRMmk)
 * [Nonviolent Communication: A Language of Life - Chapter 1](https://www.cnvc.org/training/resource/book-chapter-1)
 * [NVC Instruction Guide](https://www.cnvc.org/sites/default/files/NVCInstructionGuide_Jiva_.pdf)
+* [Nonviolent Communication: Gandhian Principles for Everyday Living](http://www.satyagrahafoundation.org/wp-content/uploads/2013/02/gandhian-principles-for-everyday-living.pdf) by Miki Kashtan
 
 <h3><center>Subscribe for Updates</center></h3>
 
