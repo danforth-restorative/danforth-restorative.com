@@ -3,9 +3,11 @@
 
 html, body { margin: 0; padding: 0; }
 
-html { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif; font-size: 1rem; line-height: 1.5; }
+html { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "CCSymbols", "Helvetica Neue", Arial, sans-serif; font-size: 1rem; line-height: 1.5; }
 
 @media (min-width: 49rem) { html { font-size: 1.25rem; } }
+
+@font-face { font-display: swap; font-family: CCSymbols; font-synthesis: none; src: url(/assets/CCSymbols.woff2) format(woff2), url(/assets/CCSymbols.woff) format(woff); unicode-range: u+a9, u+229c, u+1f10d-f, u+1f16d-f; }
 
 body { text-size-adjust: 100%; }
 

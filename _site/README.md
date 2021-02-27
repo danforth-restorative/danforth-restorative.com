@@ -4,7 +4,7 @@ This is my personal blog and is the home-page for articles and projects related 
 
 ## Personal Blog and Restorative Topics
 
-Curation and publishing of digital infostreams. Making difficult topics more easily accessible: Nonviolent communication, Anti-racism #BLM, Anti-Sexism #metoo, allyship education, emotional intelligence, personal development and transformative practices.
+Curation and publishing of digital infostreams. I like to make difficult topics more easily accessible. Intended topics for this blog: Nonviolent communication, Anti-racism #BLM, Anti-Sexism #metoo, allyship education, emotional intelligence, personal development and transformative practices.
 
 ### Me
 
