@@ -4,7 +4,7 @@ excerpt: >
     I noticed that some of my proposed topics for this blog aren't directly the subject of its contents. That has something to do with the idea that some of the most important work in my recovery hasn't been trying to solve the problems I'd caused for myself. Exploring the idea that solving a problem often doesn't always look like confronting it directly. What we think of as a problem may be closer to a symptom of underlying issues. 
 description: If you are tired, you could drink a cup of coffee, or simply get some sleep. You don't sleep so you can feel more alert, but feeling alert is a byproduct of getting rest, which addresses the underlying problem.
 date: 2021-02-26
-#image: /assets/images/
+image: /assets/images/change-pyramid-og.png
 tags:
   - Nonviolence
 ---
@@ -35,7 +35,7 @@ The more time I spend developing myself, the better I am able to process difficu
 
 <h2>The Change Pyramid</h2>
 
-<img src="/images/change-pyramid.png"/><br>
+<img src="/assets/images/change-pyramid.png"/><br>
 <sup><a href="https://arbinger.com/Landing/AnatomyOfPeace.html">The Anatomy of Peace</a></sup>
 
 I'm getting the sense that sometimes focusing on a problem can make it more difficult to solve. This goes along with the idea that we are created by our thoughts, or that we become as we think. 
