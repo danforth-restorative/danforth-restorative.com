@@ -35,7 +35,7 @@ The more time I spend developing myself, the better I am able to process difficu
 
 <h2>The Change Pyramid</h2>
 
-<img src="/assets/images/change-pyramid.png"/><br>
+<img src="/assets/images/change-pyramid.png"/>
 <sup><a href="https://arbinger.com/Landing/AnatomyOfPeace.html">The Anatomy of Peace</a></sup>
 
 I'm getting the sense that sometimes focusing on a problem can make it more difficult to solve. This goes along with the idea that we are created by our thoughts, or that we become as we think. 
