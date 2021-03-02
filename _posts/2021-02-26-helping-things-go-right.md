@@ -2,9 +2,9 @@
 title: "Helping things go right > Dealing with things going wrong"
 excerpt: >
     I noticed that some of my proposed topics for this blog aren't directly the subject of its contents. That has something to do with the idea that some of the most important work in my recovery hasn't been trying to solve the problems I'd caused for myself. Exploring the idea that solving a problem often doesn't always look like confronting it directly. What we think of as a problem may be closer to a symptom of underlying issues. 
-description: If you are tired, you could drink a cup of coffee, or simply get some sleep. You don't sleep so you can feel more alert, but feeling alert is a byproduct of getting rest, which addresses the underlying problem.
+description: The idea I'm exploring is that solving a problem often doesn't look like confronting it directly. Often, what we think of as a problem is actually symptom of underlying issues, rather than the cause of our distress.
 date: 2021-02-26
-image: /assets/images/change-pyramid-og.png
+image: /assets/images/the-change-pyramid.webp
 tags:
   - Nonviolence
 ---
@@ -56,4 +56,4 @@ Confronting the sexism and racism in myself is relatively simple. Confronting th
 
 I wrote this post, in part, because I noticed that some of my proposed topics for this blog aren't directly the subject of its contents. Instead, its content is meant to address the underlying issues, according to my recovery plan.
 
-The idea I'm exploring is that solving a problem often doesn't look like confronting it directly. Often, what we think of as a problem is actually symptom of underlying issues, rather than the cause. 
+The idea I'm exploring is that solving a problem often doesn't look like confronting it directly. Often, what we think of as a problem is actually symptom of underlying issues, rather than the cause of our distress. 
