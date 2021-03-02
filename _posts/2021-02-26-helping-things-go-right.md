@@ -56,4 +56,4 @@ Confronting the sexism and racism in myself is relatively simple. Confronting th
 
 I wrote this post, in part, because I noticed that some of my proposed topics for this blog aren't directly the subject of its contents. Instead, its content is meant to address the underlying issues, according to my recovery plan.
 
-The idea I'm exploring is that solving a problem doesn't always look like confronting it directly. Often, what we think of as a problem is actually symptom of underlying issues, rather than the actual cause.
+Exploring the idea that solving a problem doesn't always look like confronting it directly. Often, what we think of as a problem is actually symptom of underlying issues, rather than the actual cause.
