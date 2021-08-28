@@ -13,23 +13,19 @@ tags:
   - Mens Health
 ---
 
-Since I've heard of the term "sexual objectification", I couldn't relate to it. If confronted with the idea of hyper-sexualization, or over-sexualization, I could have grappled. But objectification? 
+Since I've heard of the term "sexual objectification", I found it challenging to relate with, and have noticed a similar phenomenon among other men.
 
-The idea of thinking of women as objects doesn't make sense at face value. Though I've come to recognize objectification as the outcome of self-centeredness, or as describing the experience on the receiving end, rather than a stance that men take up consciously.  
+If confronted with the idea of hyper-sexualization, or over-sexualization, I could have related with. But objectification? 
 
-That said, these aren't concepts I'd spent much time weighing. That was my privilege, that I didn't have to. What seems so crystal clear now, was a mystery to me, then. Looking back, I find a great deal of my behavior and ways of relating with women to be entirely absurd. 
+Thinking of women as objects doesn't make sense at face value, and who wants to admit to themselves that they have? Much safer to think of other people as objectifying, if at all. 
 
-Clearly this is no simple subject, and there will be no simple explanations. Instead, I've approached the problem from a number of angles, that I intend to explore further in this post, the first of a series.
+The sexual objectification of women is a subject I haven't spent much time thinking about, until recently. Instead, I was busy participating with it.
 
-- What is exactly is the Sexual Objectification of Women?
-- A review of influential literature surrounding objectification. 
-- Rape culture: A historical perspective.
+Clearly this is no simple subject, and there will be no simple explanations. Instead I'll try to break it apart into manageable lines of inquiry.
 
 ## What even is Objectification?
 
-It appears that the concept of objectification is at the heart of feminist literature and philosophy. If you are casually familiar with philosophy, those origins immediately explain the difficulty a lay-person might have in digesting it at face value.
-
-In her 1995 paper, ["Objectification"](https://sci-hub.se/https://doi.org/10.1111/j.1088-4963.1995.tb00032.x), Martha Nussbaum offers the following points to describe treating a person as an object: 
+The concept of objectification appears to be at the heart of feminist literature and philosophy. In her 1995 paper, ["Objectification"](https://sci-hub.se/https://doi.org/10.1111/j.1088-4963.1995.tb00032.x), Martha Nussbaum offers the following points to describe treating a person as an object: 
 > 1. Instrumentality; The objectifier treats the object as a tool of his or her purposes. 
 > 2. Denial of autonomy: The objectifier treats the object as lacking in autonomy and self-determination. 
 > 3. Inertness: The objectifier treats the object as lacking in agency, and perhaps also in activity.
@@ -38,44 +34,76 @@ In her 1995 paper, ["Objectification"](https://sci-hub.se/https://doi.org/10.111
 > 6. Ownership: The  objectifier treats the object as something that is owned by another, can be bought or sold, etc. 
 > 7. Denial of subjectivity: The objectifier treats the object as something whose experience and feelings (if any) need not be taken into account.
 
-In each of these 7, a description of how another is treated is given. Its not the matter of how a potential objectifier is thinking, or how they believe they relate with another. Objectification relates to the effects of our actions upon another.
+Men struggle relating to the idea of objectifying women, because we clearly (to ourselves) don't think of women as objects lacking agency or motive of their own. The mistake being a failure to take an additional step to wonder if a women has ever felt treated by us as an object.
 
 [Rae Langton](http://web.mit.edu/langton/www/pubs/Projection&Objectification.pdf) (2009, 228–229) added a few more aspects of objectification to Nussbaum’s list:
 > - reduction to body: the treatment of a person as identified with their body, or body parts;
 > - reduction to appearance: the treatment of a person primarily in terms of how they look, or how they appear to the senses;
 > - silencing: the treatment of a person as if they are silent, lacking the capacity to speak.
 
-Upon reviewing these lists, I can recall how I've reflected those descriptions in my treatment of women.
+While a man might *think* of woman as divine, and believe he treats her fairly, she might experience him as the objectifier, while he carries on deluded. 
 
-**It was all about me. It was always all about me.** 
+Then again, different women are most likely to experience the same set of behaviors radically differently from each-other.
 
-Rather than a conscious will to do harm, I was simply more consumed with myself and my own interests, than concerned for the women in my life. In the end it amounts to the same. 
+The term objectification is useful for bringing light to the experience of women, but I believe it falls short from inspiring men to examine the impact of our actions.
 
-If anything matters, it's the results of our actions, not the substance of our intentions.
+Is objectification, perhaps, naturally camouflaged from detection by those engaged in it? 
 
-## Digging to the roots
+## Understanding objectification
 
-I wouldn't have come to these realizations without the help of community, finding rock bottom, and breaking free from the control of drugs and alcohol. But awareness is only a beginning. 
+Aided by the reflection of a sober mind, I can certainly see myself in those descriptions of objectification. I wasn't immediately receptive to seeing a problem in myself, tho much more receptive than I imagine most men being.
 
-While I continue making considerable effort to transforming my own way of thinking and negative attitudes, personal reform isn't enough.
+Calling out objectifying behavior can be useful for men who are open and willing to change. Since objectifying behaviors can be rewarding for men, that stands as a barrier in the way of his understanding. Objectification is quite likely influenced by mental habits that appear harmless and enjoyable, on the surface. 
 
-Along with my own study of materials available online, and at the local library, I can dissect my personal experience looking for common elements. Perhaps that experience can be redeemed still, and turned to the benefit of the commons.
+At the moment, causes and solutions to sexual objectification remain shrouded in mystery. This project is meant to bring clarity to both, and improve our ability to manage it in ourselves and our communities.
 
-### Contributing Factors
+## What are the causes of objectification?
 
-From the top of my head, what follows is a list of factors I believe that have contributed to my objectification of women.
+I've listed all the factors that occur to me as potentially bearing on objectification. 
 
-* Lack of educating men on the experience of women
-* Insufficient Development of *Social Skills*
-* Insufficient *Emotional* and *Mental Hygiene*
-* *Alcohol* and Drugs (*Addiction*)
-* Inherited *societal norms*
-* *Media* and *Advertising*
-* Powers that benefit from subversion of women and conflict among the masses.
+Having developed over, at least, many thousands of years, across multiple cultures found across the globe, the objectification of women will have no specific and immediate cause which can be addressed and disposed of. 
 
-This list is roughly in order of importance & amount of influence I might have over them.
+I propose to carefully consider which factors promote the objectification of women, and for each we should determine a variety of approaches to these problems that can be used in different environments.
 
-### Focus
+* Lack of **education on the experience of women**
+* **Sexual Taboo**
+* Insufficient **Emotional and Mental Hygiene**
+* Insufficient Development of **Social Skills**
+* Lack of **Personal Growth** and Development
+* **Alcohol** and Drugs (**Addiction**)
+* **Societal norms**, present and cumulative.
+* **Literature, Media** and **Advertising**
+* **Powers that be**nefit from subversion of women and conflict among people.
+
+As with an individual's personal wellness, life challenges may arise from no single source, but through a combination of the environment in which one is brought into the world, our early experiences, family structure, and a certain "something" of our own that we each arrive with onto this plane.
+
+It will be necessary to look beyond the aggravating factors, to determine which practices promote mens relating with women as human beings, with no less respect than they might treat their fellow man. 
+
+### Appreciating the world as experienced by women
+
+> Humanity is male, and man defines woman, not in herself, but in relation  to  himself; - [Simone De Beauvoir, The Second Sex](https://libcom.org/files/1949_simone-de-beauvoir-the-second-sex.pdf)
+
+I grew up in a world where the stories have been told primarily from the [male perspective](https://en.wikipedia.org/wiki/Male_gaze). For example, there is Philosophy, which means 'mens philosophy', and then there is Feminist Philosophy, which is women's philosophy. 
+
+I offer this example to illustrate the point which must be glaringly obvious to anyone living in a female body, but which I may never had occasion to notice if I hadn't gone out of my way to explore this subject.
+
+Growing awareness among men about how commonly stories are told from our perspective vs that of women will help.
+
+More than that as men, spending time with a curated set of quality medias that exemplify womans voice intellect and prowess, for men more easily to view woman as a professional, as an intellectual, as an artist, and not first as a sexual being created for our pleasure.
+
+### Sexual Taboo
+
+Taboos around sex ensure that every 'good' parent is frightened to discuss sexual matters with children, or with children present. Religious parents refuse their children to participate in sexual education (especially if it might be actually useful to its audience).
+
+These taboos around sex ensure that young men learn what there is to learn about sex from fellow school-children, rather than potentially responsible and caring adults. 
+
+Especially when taboos are placed around natural human processes, drives, and behaviors that are commonplace, then we are much easier to manipulate.
+
+### Mental and Emotional Hygiene
+
+
+
+#### Focus
 
 I read recently about a [new theory of attention](https://www.theatlantic.com/science/archive/2019/09/how-brain-helps-you-pay-attention/598846/) that I believe sheds some light on this subject, and maybe even help understanding the behavior surrounding addiction, more generally.
 
