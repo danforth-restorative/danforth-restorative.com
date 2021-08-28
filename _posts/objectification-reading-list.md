@@ -1,8 +1,26 @@
-# Literature about the Sexual Objectification of Women
+---
+published: false
+---
+# Literature regarding Objectification of Women
 
-This page has been currently based upon the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf).
+To this point, these resources have been mainly gathered from the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf) as a jumping off point.
 
-> This course introduces leading philosophical accounts of objectification, dehumanisation, and othering, and investigates the degree of overlap between the three notions. We will also examine scepticism about the significance of these notions, looking closely at a number of case-studies in order to assess the plausibility of this kind of scepticism. These case-studies will include sexist pornography, epistemic injustice (Miranda Fricker’s term for ways in which one can be harmed in one’s capacity as an epistemic subject), and the roles of dehumanising language and imagery.
+> This course introduces leading philosophical accounts of objectification, dehumanisation, and othering, and investigates the degree of overlap between the three notions. We will also examine scepticism about the significance of these notions, looking closely at a number of case-studies in order to assess the plausibility of this kind of scepticism. 
+
+## Contents
+
+- [Literature regarding Objectification of Women](#literature-regarding-objectification-of-women)
+  - [Contents](#contents)
+  - [Wiki](#wiki)
+  - [Literature](#literature)
+  - [Authors](#authors)
+    - [Simone de Beauvoir](#simone-de-beauvoir)
+    - [Nancy Bauer)](#nancy-bauer)
+    - [Martha Nussbaum](#martha-nussbaum)
+    - [Rae Langton](#rae-langton)
+    - [Andrea Dworkin](#andrea-dworkin)
+    - [Catharine MacKinnon](#catharine-mackinnon)
+    - [John Rector](#john-rector)
 
 ## Wiki
 
@@ -14,10 +32,13 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
   > Sexual objectification is the act of reducing a person into an object to use and consume sexually. Sexual objectification has been a central idea under debate in feminist politics since the 1970s, starting most notably with Andrea Dworkin and Catharine MacKinnon. Scholars have been arguing for decades about whether sexual objectification is harmful to humanity and whether it contributes to gender inequality. 
 - [Sexualization - Wikipedia](https://en.wikipedia.org/wiki/Sexualization)
   > Sexualization (or sexualisation) is to make something sexual in character or quality or to become aware of sexuality, especially in relation to men and women. Sexualization is linked to sexual objectification. According to the American Psychological Association, sexualization occurs when "individuals are regarded as sex objects and evaluated in terms of their physical characteristics and sexiness.
+* [Male Gaze – Wikipedia](https://en.wikipedia.org/wiki/Male_gaze)
+  > In feminist theory, the male gaze is the act of depicting women and the world, in the visual arts and in literature, from a masculine, heterosexual perspective that presents and represents women as sexual objects for the pleasure of the heterosexual male viewer.
 * [Category:Feminism](https://en.wikipedia.org/wiki/Category:Feminism)
   > This category has the following 30 subcategories
 
-### Literature
+
+## Literature
 
 * [What Philosophy Can’t Teach Us About Sexual Objectification](https://www.degruyter.com/document/doi/10.4159/9780674286474-003/html), Nancy Bauer, in, *How To Do Things With Pornography*, 2015
   * [Book Reviews "How to do things with Pornography"](https://kiej.georgetown.edu/nancy-bauer-things-pornography-harvard-university-press-2015/)
@@ -67,8 +88,8 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
 * [Pornography and Dehumanization: The Essentialist Dimension](https://sci-hub.se/https://doi.org/10.1080/00048402.2019.1700291), Eleonore Neufeld
   > The objective of this paper is to shed light on one central mechanism through which pornography dehumanizes women. I will show that pornography essentializes women — roughly, that it represents them as belonging to certain kinds, breeds, or species whose behaviour is constrained by laws governing the kind—and that the essentialist picture of women depicted in pornography is one key element of its dehumanizing machinery.
 
-### Relevant Authors
-#### [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
+## Authors
+### [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
 
 > a French writer, intellectual, existentialist philosopher, political activist, feminist, and social theorist. Though she did not consider herself a philosopher, she had a significant influence on both feminist existentialism and feminist theory.
 
@@ -80,8 +101,11 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
   * [Wartime Diary](https://www.jstor.org/stable/10.5406/j.ctt13x1m4s) (2009)
   * [Diary of a Philosophy Student: Volume 1, 1926-27](https://www.jstor.org/stable/10.5406/j.ctt13x1m59) (2006)
   * [Philosophical Writings](https://www.jstor.org/stable/10.5406/j.ctt13x1m38) (2004)
+* [The Second Sex](https://www.sparknotes.com/lit/secondsex/summary/), Simone de Beauvoir, 1949 ([Introduction](https://www.sfu.ca/~decaste/OISE/page2/files/deBeauvoirIntro.pdf))
+  > De Beauvoir’s primary thesis is that men fundamentally oppress women by characterizing them, on every level, as the Other, defined exclusively in opposition to men. Man occupies the role of the self, or subject; woman is the object, the other. He is essential, absolute, and transcendent. She is inessential, incomplete, and mutilated. He extends out into the world to impose his will on it, whereas woman is doomed to immanence, or inwardness. He creates, acts, invents; she waits for him to save her. This distinction is the basis of all de Beauvoir’s later arguments.
+    * [Gregory B. Sadler – Simone de Beauvoir - 20th Century Philosophy](https://www.youtube.com/playlist?list=PL4gvlOxpKKIhXUUr6TM0EgdD-kxusDOA2) - I've found this playlist useful in digesting de Beauvoir's philosophy, including *The Second Sex*.
 
-#### [Nancy Bauer](https://en.wikipedia.org/wiki/Nancy_Bauer_(philosopher))
+### [Nancy Bauer](https://en.wikipedia.org/wiki/Nancy_Bauer_(philosopher))
 
 > Nancy Bauer is an American philosopher specializing in feminist philosophy, existentialism and phenomenology, and the work of Simone de Beauvoir. [...] Her interests include methodology in philosophy, feminism, metaphysics, social/political/moral philosophy, philosophy of language, phenomenology, and philosophy in film. 
 
@@ -95,7 +119,7 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
   * How to Do Things With Pornography. 2015
 * [Interview on 5 Questions Podcast](https://podcasts.apple.com/us/podcast/nancy-bauer/id1510581518?i=1000480290512)
 
-#### [Martha Nussbaum](https://en.wikipedia.org/wiki/Martha_Nussbaum)
+### [Martha Nussbaum](https://en.wikipedia.org/wiki/Martha_Nussbaum)
 
 > an American philosopher [...] has a particular interest in ancient Greek and Roman philosophy, political philosophy, existentialism, feminism, and ethics, including animal rights. She also holds associate appointments in classics, divinity, and political science, is a member of the Committee on Southern Asian Studies, and a board member of the Human Rights Program.
 
@@ -108,7 +132,7 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
   * Frontiers of Justice: Disability, Nationality, Species Membership (2006)
   * From Disgust to Humanity: Sexual Orientation and Constitutional Law (2010).
 
-#### [Rae Langton](https://en.wikipedia.org/wiki/Rae_Langton)
+### [Rae Langton](https://en.wikipedia.org/wiki/Rae_Langton)
 
 >  an Australian and British professor of philosophy. [...] She has published widely on Immanuel Kant's philosophy, moral philosophy, political philosophy, metaphysics, and feminist philosophy. She is also well known for her work on pornography and objectification.
 
@@ -119,7 +143,7 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
 * Pornography: a liberal's unfinished business. (January 1999)
 * Scorekeeping in a pornographic language game (September 1999)
 
-#### [Andrea Dworkin](https://en.wikipedia.org/wiki/Andrea_Dworkin)
+### [Andrea Dworkin](https://en.wikipedia.org/wiki/Andrea_Dworkin)
 
 > best known for her analysis of pornography, although her feminist writings, beginning in 1974, span 40 years. They are found in a dozen solo works: nine books of non-fiction, two novels, and a collection of short stories. Another three volumes were co-written or co-edited with US Constitutional law professor and feminist activist, Catharine A. MacKinnon. 
 
@@ -136,7 +160,7 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
   * Pornography and Civil Rights: A New Day for Women’s Equality (with Catharine A. MacKinnon)
   * In Harm’s Way: The Pornography Civil Rights Hearings (with Catharine A. MacKinnon)
 
-#### [Catharine MacKinnon](https://en.wikipedia.org/wiki/Catharine_A._MacKinnon)
+### [Catharine MacKinnon](https://en.wikipedia.org/wiki/Catharine_A._MacKinnon)
 
 > an American radical feminist legal scholar, activist, and author. [...] an expert on international law, constitutional law, political and legal theory, and jurisprudence, MacKinnon focuses on women's rights and sexual abuse and exploitation, including sexual harassment, rape, prostitution, sex trafficking and pornography.
 
@@ -159,9 +183,8 @@ This page has been currently based upon the [Objectification, Dehumanisation, an
 * Gender in Constitutional Law (2018)
 * Women's Lives in Men's Courts: Briefs for Change. (2022)
 
-#### John Rector
+### John Rector
 * [John Rector](https://www.youtube.com/channel/UCkr7q0ZPyamw9betTks35VQ)
   - The Objectification Spectrum part 1 (Oxford University Press, July 2014)
   - The Objectification Spectrum part 2 (Oxford University Press, July 2014)
   - "Leaving Plato's Cave: Understanding and Transcending Our Objectification of Others" (July 29, 2016)
-
