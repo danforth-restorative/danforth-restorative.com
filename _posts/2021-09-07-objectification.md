@@ -6,6 +6,7 @@ excerpt: >
     It's painful to consider so plainly, making it all the more difficult to address systemically. Those most in need of understanding are least incentivized to do so. 
 description: Humanity is male, and man defines woman, not in herself, but in relation to himself - Simone de Beauvoir
 date: 2021-09-07
+image: /assets/images/objectification.png
 tags:
   - Mens Health
 ---
