@@ -3,24 +3,22 @@ published: false
 ---
 # Literature regarding Objectification of Women
 
-To this point, these resources have been mainly gathered from the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf) as a jumping off point.
+To begin, these resources were mainly gathered from the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf) as a jumping off point.
 
 > This course introduces leading philosophical accounts of objectification, dehumanisation, and othering, and investigates the degree of overlap between the three notions. We will also examine scepticism about the significance of these notions, looking closely at a number of case-studies in order to assess the plausibility of this kind of scepticism. 
 
 ## Contents
 
-- [Literature regarding Objectification of Women](#literature-regarding-objectification-of-women)
-  - [Contents](#contents)
-  - [Wiki](#wiki)
-  - [Literature](#literature)
-  - [Authors](#authors)
-    - [Simone de Beauvoir](#simone-de-beauvoir)
-    - [Nancy Bauer)](#nancy-bauer)
-    - [Martha Nussbaum](#martha-nussbaum)
-    - [Rae Langton](#rae-langton)
-    - [Andrea Dworkin](#andrea-dworkin)
-    - [Catharine MacKinnon](#catharine-mackinnon)
-    - [John Rector](#john-rector)
+- [Wiki](#wiki)
+- [Literature](#literature)
+- [Authors](#authors)
+  - [Simone de Beauvoir](#simone-de-beauvoir)
+  - [Nancy Bauer](#nancy-bauer)
+  - [Martha Nussbaum](#martha-nussbaum)
+  - [Rae Langton](#rae-langton)
+  - [Andrea Dworkin](#andrea-dworkin)
+  - [Catharine MacKinnon](#catharine-mackinnon)
+  - [John Rector](#john-rector)
 
 ## Wiki
 
