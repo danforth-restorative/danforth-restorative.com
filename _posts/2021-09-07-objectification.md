@@ -1,5 +1,5 @@
 ---
-title: "Examining Objectification: Its Symptoms and Roots, in Search of a Remedy"
+title: "Examining Objectification: Symptoms, Roots and Remedy"
 excerpt: >
     While men find it challenging to relate objectification to our own behavior, I wonder how often we deeply consider whether others might experience our actions as objectifying? That is clearly the question to ask. 
 
