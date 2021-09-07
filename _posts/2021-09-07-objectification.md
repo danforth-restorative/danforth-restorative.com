@@ -12,7 +12,7 @@ tags:
 
 Since I've heard of the term "sexual objectification", I found it challenging to relate with, and have noticed a similar phenomenon among other men.
 
-I'm npt entirely sure when I first heard the term, perhaps as recently as the early 2010's, or shortly before. If I had heard the term in school, I don't recall.
+I'm not entirely sure when I first heard the term, perhaps as recently as the early 2010's, or shortly before. If I had heard the term in school, I don't recall.
 
 Thinking of women as objects doesn't make sense at face value. I could see myself as over-sexualizing, though I didn't have the words for that, either. I tried to consider if I participated in objectifying of women, and while I wondered if I might, it simply didn't compute to me.
 
