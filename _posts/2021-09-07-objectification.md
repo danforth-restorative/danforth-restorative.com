@@ -1,8 +1,6 @@
 ---
 title: "Examining Objectification: Symptoms, Roots and Remedy"
 excerpt: >
-    While men find it challenging to relate objectification to our own behavior, I wonder how often we deeply consider whether others might experience our actions as objectifying? That is clearly the question to ask. 
-
     When broken down into specific facets of objectification, its much easier for one to consider whether any of our actions may have been experienced as objectifying.
 
     It's painful to consider so plainly, making it all the more difficult to address systemically. Those most in need of understanding are least incentivized to do so. 
@@ -22,7 +20,7 @@ Looking back now, it's obvious that I have objectified women. But even after it 
 
 Based upon my personal experiences, and recognizing the collective disfunction around sex humanity suffers by, I've come to recognize that a proper assessment of objectification is necessary. 
 
-It's necessary for myself, as I work to understand and overcome propensities towards objectification.
+It's necessary for myself, as I work to understand and overcome my own propensities towards objectification.
 
 It's also necessary for the world, and I believe that identifying and working to resolve objectification within myself provides me a particular insight that, shared with the world, could help curb this tendency among us all.
 
