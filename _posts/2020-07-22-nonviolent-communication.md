@@ -31,9 +31,9 @@ Nonviolent communication provides clarity around how we think about our emotions
 
 Earning a Ph.D. in clinical psychology from the University of Wisconsin–Madison, Dr. Rosenberg found that [psychiatric diagnoses have no scientific basis](https://www.sciencedaily.com/releases/2019/07/190708131152.htm), and that looking at violence as a mental illness ignored the societal structures that promote this behavior.
 
-He found that religions of the world agree we're meant to live compassionately, but don't necessarily explain how to do that. He then studied the differences between the people, he knew, who were the most compassionate, and those who seemed to enjoy criticizing, blaming, and attacking others. He used this research along with his education in psychology to develop this process of called nonviolent communication.
+He found that religions of the world agree we're meant to live compassionately, but don't necessarily explain how to do that. He then studied the differences between the people, he knew, who were the most compassionate, and those who seemed to enjoy criticizing, blaming, and attacking others. He used this research along with his education in psychology to develop this process called Nonviolent Communication (NVC).
 
-While developing NVC, he found the process to be much more effective as a healing tool, in his practice of clinical psychology, than how he was taught to do psychotherapy in university.
+While developing NVC, Marshall found the process to be much more effective as a healing tool, in his practice of clinical psychology, than how he was taught to do psychotherapy in university.
 
 ## Premise
 
@@ -45,11 +45,13 @@ People living under those structures have been taught a system of retributive ju
 
 Dr. Rosenberg taught that whenever we're feeling anger, depression, guilt, or shame, we're thinking in a way that contributes to violence, a way of thinking designed to make us obedient to authority.
 
-OJ Harvey took samples of literature from around the world to discover how often language was used judging people's actions in this way, and then correlated that with measures of violence towards oneself and others, finding a high [correlation between the language of moralistic judgement and violence](https://archive.org/stream/conceptualsystem00harv/conceptualsystem00harv_djvu.txt). 
+In his studies Marshall found, from the research of OJ Harvey, who took samples of literature from around the world, a high [correlation between the language of moralistic judgement and violence](https://archive.org/stream/conceptualsystem00harv/conceptualsystem00harv_djvu.txt). 
 
-In contrast, Nonviolent communication focuses our attention on whether actions peoples actions are fulfilling our needs or not. Our own actions, and the actions of others. 
+In contrast, Nonviolent communication focuses our attention on whether actions are fulfilling our needs or not. Our own actions, and the actions of others. 
 
-Instead of judging what people are, we make clear observations of whether their actions are fulfilling our needs. If our needs are not met, then we follow up our observation with a clear request of what would meet those needs. If our needs are met by their actions, we clearly communicate an appreciation of how our lives have been enriched.
+Instead of judging what people are, we make clear observations of whether their actions are fulfilling our needs. If our needs are not met, then we follow up our observation with a clear request of what would meet those needs. 
+
+If our needs are met by their actions, we clearly communicate an appreciation of how our lives have been enriched.
 
 ## Components
 
