@@ -29,6 +29,7 @@ Looking back now, it's obvious that I have engaged in objectification. But even 
   <li><a href="#beyond-sexual-identification">Beyond Sexual Identification</a></li>
 </ul>
 <li><a href="#causes-of-objectification">Causes of objectification?</a></li>
+<ul>
 <li><a href="#education">Education</a></li>
 <ul>
   <li><a href="#appreciating-the-world-as-experienced-by-others">Appreciating the world as experienced by others</a></li>
@@ -41,6 +42,7 @@ Looking back now, it's obvious that I have engaged in objectification. But even 
   <li><a href="#addiction-alcohol">Addiction (alcohol)</a></li>
   <li><a href="#sexual-taboo">Sexual Taboo</a></li>
   <li><a href="#media">Media</a></li>
+</ul>
 </ul>
 <li><a href="#moving-forward">Moving forward</a></li>
 </ul>
@@ -136,14 +138,14 @@ I've organized what appear to me as influences leading towards the objectificati
 
 <p>It will be necessary to look beyond the aggravating factors, to determine which practices promote healthy and respectful relations with all, regardless of dominant prejudice.</p>
 
-<h2 id="#education">Education</h2>
-<h3 id="#appreciating-the-world-as-experienced-by-others">Appreciating the world as experienced by others</h3>
+<h3 id="#education">Education</h3>
+<h4 id="#appreciating-the-world-as-experienced-by-others">Appreciating the world as experienced by others</h4>
 
 <p>Film and Television has, up to this point, largely focused from the male perspective, its female characters supporting the male lead being portrayed with minimal depth. Men will always have difficulty relating with women on their own terms for as long as there is limited access to stories having women in lead roles.</p>
 
 <p>Well, that is changing, especially with modern television programming and the popularization of youtube. To begin, the easiest thing any of us can do is spend time with a curated set of media exemplifying the 'others' in our world.</p>
 
-<h3 id="#mental-and-emotional-hygiene">Mental and Emotional Hygiene</h3>
+<h4 id="#mental-and-emotional-hygiene">Mental and Emotional Hygiene</h4>
 
 <p>Emotional intelligence and mental health are both areas that have just come into their own over the past few decades, and there is much better care and information accessible than ever before.</p>
 
@@ -151,7 +153,7 @@ I've organized what appear to me as influences leading towards the objectificati
 
 <p>Left un-treated, it's common for anyone to have repressed and unprocessed suffering ([complexes](en.wikipedia.org/wiki/Complex_(psychology))) that can lead us to react irrationally and hurt the ones we love, not to mention people who we've set aside as 'other'.</p>
 
-<h3 id="#social-intelligence">Social Intelligence</h3>
+<h4 id="#social-intelligence">Social Intelligence</h4>
 
 <p>For most of us, we never got taught how to relate socially. The knowledge and research surrounding human social behaviors and body language has also blossomed in recent decades, enabling much greater precision in communication with and understanding amongst each-other.</p>
 
@@ -159,7 +161,7 @@ I've organized what appear to me as influences leading towards the objectificati
 
 <p>It will be so much easier for us to avoid objectification if we are better prepared to recognize and accept the human condition and experience.</p>
 
-<h3 id="#personal-growth-and-development">Personal growth and development</h3>
+<h4 id="#personal-growth-and-development">Personal growth and development</h4>
 
 <p>While there are many avenues for developing ourselves as people, for many personal growth and development happens largely by accident, beyond whatever growth we enjoy through the care of standardized educational establishments. </p>
 
@@ -167,39 +169,33 @@ I've organized what appear to me as influences leading towards the objectificati
 
 <p>Men who are lacking in the areas of personal growth and development are more likely to be insecure with themselves and more likely to fall to the relative comfort of assumed superiority and objectification.</p>
 
-<h2 id="#culture">Culture</h2>
-<h3 id="#addiction-alcohol">Addiction (alcohol)</h3>
+<h3 id="#culture">Culture</h3>
+<h4 id="#addiction-alcohol">Addiction (alcohol)</h4>
 
 <p>The problem of addiction follows along a path that our other factors have laid. It handily follows that if we have any weakness in emotional health, social skills, or are lacking in personal development, addiction awaits with arms open. </p>
 
-<p>Alcohol use is practically culturally mandated in the United States. Not to say there aren't plenty of non-drinkers, but if you want to make friends it will be a lot harder without alcohol.</p>
+<p>Any addiction could increase our tendency towards objectifying behavior, but alcohol's role deserves careful attention, since it's the most socially acceptable intoxicant that can significantly impact our judgement and character, by allowing us to avoid the natural pains of introspection.</p>
 
-<p>All of that would be fine, except the fact that alcohol impairs our judgement, is addictive, and we are especially vulnerable to it in combination with factors listed above. </p>
+<h4 id="#sexual-taboo">Sexual Taboo</h4>
 
-<p>Any addiction could increase our tendency towards objectifying behavior, but alcohol's role deserves careful attention, since it's the most socially acceptable intoxicant that significantly impacts on our thoughts and behavior.</p>
+<p>Under the color of righteousness and morality, taboos around sex ensure that every 'good' parent is frightened to discuss sexual matters with children, or with children present. Religious parents often refuse their children to participate in sexual education.</p>
 
-<h3 id="#sexual-taboo">Sexual Taboo</h3>
-
-<p>Under the color of righteousness and morality, taboos around sex ensure that every 'good' parent is frightened to discuss sexual matters with children, or with children present. Religious parents refuse their children to participate in sexual education.</p>
-
-<p>These taboos around sex ensure that children mostly learn about sex from their peers, who know barely more than they, instead of responsible and caring adults. By the time parents or educators get around to talking to children about sex, we've already gotten our most influential lessons on the subject.</p>
+<p>Taboos around sex ensure that children learn about sex from peers and pornography, instead of responsible and caring adults. By the time parents or educators get around to talking to children about sex, we've already gotten our worst and most influential lessons on the subject.</p>
 
 <p>Especially when taboos are placed around natural human processes and drives, then we are much easier to manipulate. </p>
 
-<p>In the scheme of things, I believe that until we learn to communicate with children in a natural way about sex, rather than leaving their first lessons in the hands of their crudest peers, then we won't solve the problem of sexual objectification.</p>
+<p>I believe that until we learn to communicate with children in a natural way about sex, rather than leaving their first lessons in the hands of their crudest influences, we won't solve the problem of sexual objectification.</p>
 
-<h3 id="#media">Media</h3>
+<h4 id="#media">Media</h4>
 
-<p>This section is probably the most obvious and straightforward, next to our education and recognition of womens experience in the world. The media (movies, television, music) are the vehicles we use to propel our culture across the globe. These are typically created to attract consumers along whatever lines we are likely to be attracted, without care for the broader societal impact.</p>
+<p>Next to our education and recognition of womans experience in the world. The media (movies, television, music) are the vehicles used to propel culture across the globe.</p>
 
-<p>I'll be interested to explore the history of objectification in literature, if for no other reason than its a lot easier to pick a starting point with far less media to sort through, but also to try and get a sense for the origins of objectification.</p>
+<p>I'll be interested to explore the history of objectification in literature and get a sense for its origins.</p>
 
-<h2 id="#moving-forward">Moving forward</h2>
+<h3 id="#moving-forward">Moving forward</h3>
 
 <p>This outline marks the beginning of examining objectification and its causes. I intend to continue from here, to explore these themes in more detail.</p>
 
 <p>I would like to understand objectification, more broadly, and determine how to combat its problematic elements.</p>
 
-<p>The plan is to much more than simply learn, write, and think about these topics, but discover creative means for addressing them systemically.</p>
-
-<p>What I think we'll find is that the largest components of this work won't necessarily appear to deal with objectification. To the extent that objectification is symptomatic, we must address the underlying issues, one after another, and together in concert.</p>
+<p>To the extent that objectification is symptomatic, we must address the underlying causes, both individually and collectively.</p>
