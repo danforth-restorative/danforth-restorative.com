@@ -37,9 +37,11 @@ Looking back now, it's obvious that I have engaged in objectification. But even 
   <li><a href="#personal-growth-and-development">Personal growth and development</a></li>
 </ul>
 <li><a href="#culture">Culture</a></li>
+<ul>
   <li><a href="#addiction-alcohol">Addiction (alcohol)</a></li>
   <li><a href="#sexual-taboo">Sexual Taboo</a></li>
   <li><a href="#media">Media</a></li>
+</ul>
 <li><a href="#moving-forward">Moving forward</a></li>
 </ul>
 
