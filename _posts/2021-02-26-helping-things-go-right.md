@@ -7,6 +7,7 @@ date: 2021-02-26
 image: /assets/images/the-change-pyramid.webp
 tags:
   - Nonviolence
+published: false
 ---
 
 When I first quit drinking after nearly a decade of daily consumption of alcohol and other substances, my emotions, previously regulated with a steady intake of alcohol, turned up to a piercing amplitude. 
