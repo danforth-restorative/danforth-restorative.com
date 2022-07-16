@@ -1,11 +1,10 @@
 ---
 title: "Examining Objectification: Symptoms, Roots and Remedy"
 excerpt: >
-    When broken down into specific facets of objectification, its much easier for one to consider whether any of our actions may have been experienced as objectifying.
-
-    It's painful to consider so plainly, making it all the more difficult to address systemically. Those most in need of understanding are least incentivized to do so. 
+    Objectification has been handed down by dominators, as a component of the popular culture, in modern and ancient history. Even while structures that benefit from retaining status quo may encourage that culture, as a people we must create a focused effort to tend to redressing unhealthy patterns encouraged by those power structures.
 description: Humanity is male, and man defines woman, not in herself, but in relation to himself - Simone de Beauvoir
 date: 2021-09-07
+last_modified_at: 2022-07-16
 image: /assets/images/objectification.png
 tags:
   - Mens Health
@@ -23,12 +22,11 @@ Looking back now, it's obvious that I have engaged in objectification. But even 
 <ul>
 <li><a href="#what-even-is-objectification">What even is Objectification?</a></li>
 <ul>
-  <li><a href="#no-simple-problem">No simple problem</a></li>
   <li><a href="#understanding-objectification">Understanding objectification</a></li>
   <li><a href="#woman-as-other">Woman as Other</a></li>
   <li><a href="#beyond-sexual-identification">Beyond Sexual Identification</a></li>
 </ul>
-<li><a href="#causes-of-objectification">Causes of objectification?</a></li>
+<li><a href="#areas-for-improvement">Areas for Improvement</a></li>
 <ul>
 <li><a href="#education">Education</a></li>
 <ul>
@@ -45,29 +43,29 @@ Looking back now, it's obvious that I have engaged in objectification. But even 
 </ul>
 </ul>
 <li><a href="#moving-forward">Moving forward</a></li>
+  <ul><li><a href="#nvc-judging-what-people-are">NVC & Judging what people are</a></li></ul>
+<li><a href="#conclusion">Conclusion</a></li>
 </ul>
 
 <h2 id="what-even-is-objectification">What even is Objectification?</h2>
 
-<p>The word gets used a lot, popularly, we know the type of behavior it refers to, but do we know what it really means? The answer to that may depend on how often you've experienced objectifying treatment.</p>
+<p>The word gets used a lot, popularly, we know the type of behavior it refers to, but do we know what it really means? The answer to that may depend on your experience on the receiving end of objectification.</p>
 
-<p>Based on my experiences, and recognizing the collective sexual disfunction humanity suffers by, I've come to recognize that a proper assessment of objectification is necessary. </p>
-
-<p>I must properly recognize objectifying tendencies within myself, then identify its implications across various domains and applications. </p>
-
-<h3 id="no-simple-problem">No simple problem</h3>
-
-<p>Objectification is no simple problem, and there will be no simple solution. Here, I've begun breaking it down into manageable lines of inquiry.</p>
-
-<p>Some argue that objectification is not always a bad thing, but might be an integral component of a healthy romantic relationship. Perhaps, once I've fully explored negative aspects of objectification, I might consider its potential benefits.</p>
+<p>I must properly assess and recognize objectifying tendencies within myself and the world around me, because I want to live in a world where people are treated as humans, not simply as vehicles for the fulfillment of someone elses fantasy.</p>
 
 <h3 id="understanding-objectification">Understanding objectification</h3>
 
+<p>Objectification is not a simple problem, but I've begun by breaking it down into manageable lines of inquiry.</p>
+
+<p>While we are collectively used to thinking mainly of <i>sexual</i> objectification, objectification is also found in the practices of colonization, slavery, and is even found within common uses of our language.</p>
+
 <p><blockquote>Humanity is male, and man defines woman, not in herself, but in relation to himself - Simone de Beauvoir, <a href="https://libcom.org/files/1949_simone-de-beauvoir-the-second-sex.pdf">The Second Sex</a></blockquote></p>
 
-<p>While men find it challenging to relate objectification to our own behavior, I wonder how often we deeply consider whether others might experience our actions as objectifying? That is clearly the question to ask. </p>
+<p>From my own experience, and what I've heard among my peers, many men find it challenging to recognize objectification in our own behavior. But we don't necessarily go out of our way looking for it, either.</p> 
 
-<p>It's painful to consider so plainly, ways I've objectified others, making it all the more difficult to address systemically. Those most in need of understanding have least incentive to do so. </p>
+<p>How often have women experienced my behavior as objectifying? That is clearly the question to ask.</p>
+
+<p>The problem, of course, is that those most in need of asking that question have least incentive to do so.</p>
 
 <h3 id="woman-as-other">Woman as Other</h3>
 
@@ -89,7 +87,7 @@ Looking back now, it's obvious that I have engaged in objectification. But even 
   <li>Denial of subjectivity: The objectifier treats the object as something whose experience and feelings (if any) need not be taken into account.</li>
 </ol>
 
-<p>Men struggle relating to the idea of objectifying women, because we don't necessarily have an experience *thinking* of women as objects. But here we are focused on the experience of women, not defensive protestations</p>
+<p>Men struggle relating to the idea of objectifying women, because we don't necessarily have an experience <b>thinking</b> of women as objects. But here we are focused on the experience of women, not how men are thinking about their own behavior.</p>
 
 <p><a href="http://web.mit.edu/langton/www/pubs/Projection&Objectification.pdf">Rae Langton</a> (2009, 228–229) added a few more features to Nussbaum’s list:
 <ul>
@@ -98,32 +96,38 @@ Looking back now, it's obvious that I have engaged in objectification. But even 
   <li>silencing: the treatment of a person as if they are silent, lacking the capacity to speak.</li>
 </ul></p>
 
-<p>If you are still struggling, consider that objectification describes how under-privileged people are often treated, and how they experience that treatment, not so much how the objectifier perceives their own actions.</p>
+<p>With these specific descriptions its much easier to identify where my own behaviors have fallen among this range.</p>
 
 <h3 id="beyond-sexual-identification">Beyond Sexual Identification</h3>
 
-<p>For <a href="https://en.wikipedia.org/wiki/Simone_de_Beauvoir">Simone de Beauvoir</a>, objectification is not unique to the experience of women. She proposes that any group defining themselves as superior always do so in juxtaposition with <b>the <a href="https://en.wikipedia.org/wiki/Other_(philosophy">Other</a></b>. She posits the Objectification of women as an example of this *othering*, just as Black Americans, aboriginal peoples, and many others across the globe have been subjected to.</p>
+<p>For <a href="https://en.wikipedia.org/wiki/Simone_de_Beauvoir">Simone de Beauvoir</a>, objectification is not unique to the experience of women. She proposes that any group defining themselves as superior always do so in juxtaposition with <b>the <a href="https://en.wikipedia.org/wiki/Other_(philosophy">Other</a></b>. She posits the Objectification of women as an example of this <i>othering</i>, just as Black Americans, aboriginal peoples, and many peoples across the globe have been subjected to.</p>
 
-This post deals mainly with the objectification of women because it's most relevant to my experience, and its most widely relatable in that context. 
-
-The more I think upon this topic, the easier it becomes for me to see objectification in other spheres of life. Upon examination, I would imagine we've all been objectified, and objectified others, to one extent or anther. 
-
-In future studies, I intend to explore objectification more broadly, to describe its effects seen in other areas of our lives, and in particular as it relates to colonization.
+This post deals mainly with the objectification of women because of its relevance to my life experience, and as a starting point for further examination.
 
 <h2 id="causes-of-objectification">Causes of objectification?</h2>
 
-Some men and women embrace their traditional roles both willingly and consciously, without necessarily expressing the most harmful examples of objectification. 
+Our personalities and habits of mind are created through a combination of nature, biology, culture and upbringing.
 
-We all have inherited, or been impressed upon by, patriarchal and objectifying values, to one degree or another. 
+Objectification, in the sense of othering, is an expression of power. We've all inherited, or been impressed upon by, patriarchal and objectifying values, in varying respects. 
 
-I've organized what appear to me as influences leading towards the objectification of women into two categories **Education** and **Culture**. 
+The patterns of objectification are systemic, being impressed upon us through our education and culture.
+
+Its a mistake to think that objectification is primarily sexual in nature. A growing body of research supports that objectification is an expression of power. 
+
+<h2 id="areas-for-improvement">Areas for Improvement</h2>
+
+Objectification has been handed down by dominators, as a component of the popular culture, in modern and ancient history. Even while structures that benefit from retaining status quo may encourage that culture, as a people we must create a focused effort to tend to redressing unhealthy patterns encouraged by those power structures.
+
+Objectification has perpetuated because it benefits the powerful, and the masses have been largely compliant through ignorance, men seeing it as "just the way things are" unless given a specific education.
+
+The following areas are contributing factors, and require improvements to reduce the spread of objectifying practices. Some of this has begun to change, but bears mention.
 
 <b><em>Education</em></b>
 <ul>
-<li>Lack of <b>education about the experience of women</b></li>
-<li>Insufficient <b>Emotional and Mental Hygiene</b></li>
-<li>Insufficient Development of <b>Social Skills</b></li>
-<li>Lack of <b>Personal Growth</b> and Development</li>
+<li>Lack of <b>education about womens experience</b> being objectified.</li>
+<li>Lack of emphasis in emotional intelligence through schools \ media.</li>
+<li>Children are not taught proper social skills, but left to form a "natural" pecking order.</li>
+<li>Lack in appropriate sexual education, and rites of passage appropriate to the modern world.</li>
 </ul>
 
 <b><em>Culture</em></b>
@@ -134,7 +138,7 @@ I've organized what appear to me as influences leading towards the objectificati
 <li><b>Powers who be</b>nefit from subversion of women, and conflict among people.</li>
 </ul>
 
-<p>Life challenges arise from no single source, but from a combination of our environment: early experiences, family structure, and a certain "something" of our own that we arrive with when entering this plane.</p>
+<p>We prefer to simplify cause and effect to a linear relationship, but that's not how life works.</p>
 
 <p>It will be necessary to look beyond the aggravating factors, to determine which practices promote healthy and respectful relations with all, regardless of dominant prejudice.</p>
 
@@ -199,3 +203,13 @@ I've organized what appear to me as influences leading towards the objectificati
 <p>I would like to understand objectification, more broadly, and determine how to combat its problematic elements.</p>
 
 <p>To the extent that objectification is symptomatic, we must address the underlying causes, both individually and collectively.</p>
+
+What I haven't included here is any discussion of any research findings that can help to inform of what objectification is and how it expresses physiologically, but also any insights from said research that might help to counteract its presence in our state of being.
+
+<h4 id="nvc-judging-what-people-are">Nonviolent Communication - Judging what people are</h4>
+
+Recently, I've had an interesting insight from my studies in Nonviolent Communication that sheds some light on the subject. In nonviolent communication, Marshall Rosenberg taught that the root of violence on the planet is use of static language judging what people are: ("You are incredible!" "You're gross!"). Instead we communicate with people how we're feeling as a result of their interaction with our needs. But that static language judging what people are is a type of objectification, too!!!
+
+<h3 id="conclusion">Conclusion</h3>
+
+Clearly there is a lot more to unpack, here. But this is a difficult subject to work on, in multiple ways. For now, still learning and growing.
